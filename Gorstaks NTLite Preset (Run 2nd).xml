@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Preset isAutoSaved="false" xmlns="urn:schemas-nliteos-com:pn.v1">
+	<Date>04/30/2026 05:44:00</Date>
+	<Version>1.1</Version>
+	<AppInfo>
+		<Version>2026.4.10973</Version>
+		<Licensed>Yes</Licensed>
+		<Protections>Yes</Protections>
+		<Host>Windows 11 IoTEnterpriseS 24H2 x64 - 10.0.26100.1 (en-US)</Host>
+	</AppInfo>
+	<ImageInfo>
+		<Version mode="offline">Windows 11 Professional 24H2 x64 - 10.0.26100.1 (en-US)</Version>
+		<GUID>{1F886DE2-66EA-8049-0480-D09A1116EA8D}</GUID>
+	</ImageInfo>
+	<RemoveComponents AppRemovalMode="DISM">
+		<c>1527c705-839a-4832-9118-54d4bd6a0c89 'File Picker'</c>
+		<c>3daudio 'Spatial Sound (3D Audio)'</c>
+		<c>aarsvc 'Agent Activation Runtime'</c>
+		<c>accessibility 'Accessibility tools (Ease of Access)'</c>
+		<c>accessibility_braille 'Braille (brltty)'</c>
+		<c>accessibility_cursors 'Mouse Pointers (Accessibility tools)'</c>
+		<c>accessibility_magnifier 'Screen Magnifier'</c>
+		<c>accessibility_narrator 'Narrator'</c>
+		<c>accounthealth 'Account Health'</c>
+		<c>aclui32 'Access Control List (ACL) UI - 32 bit'</c>
+		<c>actioncenter 'Action Center'</c>
+		<c>activedirectory 'Active Directory'</c>
+		<c>adamclient 'Active Directory Lightweight Directory Services (AD LDS)'</c>
+		<c>addhardwarewizard 'Add Hardware Wizard (Legacy)'</c>
+		<c>afunix 'Unix socket (AF_UNIX)'</c>
+		<c>aicomponentmgmt 'AI Component Management'</c>
+		<c>appv 'Application Virtualization (App-V)'</c>
+		<c>appwiz 'Programs and Features (Legacy)'</c>
+		<c>appwiz32 'Programs and Features (Legacy) - 32 bit'</c>
+		<c>apxunit 'APX speaker and microphone driver'</c>
+		<c>asimov 'Telemetry Client'</c>
+		<c>assembly.net '.NET assembly cache'</c>
+		<c>assignedaccess 'Assigned Access'</c>
+		<c>audit 'Windows Auditing'</c>
+		<c>auditmode 'Audit Mode'</c>
+		<c>auditpol 'Windows Auditing (Tools)'</c>
+		<c>autochk32 'Boot-time File System Verification Utility (Autochk) - 32 bit'</c>
+		<c>autofstx 'Boot-time FsTx update recovery utility (AutoFsTx)'</c>
+		<c>autoplay</c>
+		<c>axinstall 'ActiveX Installer Service'</c>
+		<c>azman 'Authorization Manager'</c>
+		<c>azman32 'Authorization Manager - 32 bit'</c>
+		<c>azuread 'Azure Active Directory'</c>
+		<c>backgroundmediaplayer32 'Background Media Player - 32 bit'</c>
+		<c>backup 'Backup and Restore'</c>
+		<c>bfs 'Brokering File System'</c>
+		<c>bingsearch 'Bing Search (InboxApp)'</c>
+		<c>branchcacheclient 'BranchCache Client'</c>
+		<c>c5e2524a-ea46-4f67-841f-6a9465d9d515 'File Explorer (Legacy)'</c>
+		<c>capabilityaccess32 'Capability Access Manager - Client - 32 bit'</c>
+		<c>captureservice 'Capture Service'</c>
+		<c>cdosys 'Collaboration Data Objects for Windows (CDOSYS)'</c>
+		<c>ceip 'CEIP (SQM)'</c>
+		<c>cellulartime 'Cellular Time'</c>
+		<c>certmgr32 'Certificate Manager - 32 bit'</c>
+		<c>certutil32 'Certificate Tools - 32 bit'</c>
+		<c>cimfs 'Composite Image File System (CimFS)'</c>
+		<c>clip 'Client License Platform'</c>
+		<c>clipboardusersvc 'Clipboard User Service'</c>
+		<c>clouddesktop 'Cloud Desktop'</c>
+		<c>clouddownload 'Windows Recovery (WinRE) - Cloud download'</c>
+		<c>cloudfiles 'Cloud Files API'</c>
+		<c>cloudid 'Microsoft Cloud Identity Service'</c>
+		<c>cloudnotifications 'Cloud Notifications'</c>
+		<c>comlegacyole32 'COM OLE 2.x - Legacy - 32 bit'</c>
+		<c>commmc 'COM+ (Component Services) (management console)'</c>
+		<c>commmc32 'COM+ (Component Services) (management console) - 32 bit'</c>
+		<c>compluseventsystem 'COM+ Event System'</c>
+		<c>complussysapp 'COM+ System Application'</c>
+		<c>compmgmt32 'Computer Management - 32 bit'</c>
+		<c>componentpackagesupport 'Component Package Support'</c>
+		<c>consentux 'Consent UX'</c>
+		<c>containers 'Containers (Application Guard)'</c>
+		<c>copilotpwa 'Windows Copilot (InboxApp)'</c>
+		<c>ctl3d32 'CTL3D (ctl3d32.dll) - 32 bit'</c>
+		<c>datacenterbridging 'Data Center Bridging (DCB)'</c>
+		<c>dcsvc 'Declared Configuration (DC) service'</c>
+		<c>desktopactivitymoderator 'Desktop Activity Moderator (DAM)'</c>
+		<c>desktopimgdownldr 'Desktop image downloader'</c>
+		<c>devicecenter 'Device Center (Devices and Printers)'</c>
+		<c>deviceguard 'Device Guard'</c>
+		<c>devicepairing32 'Device Pairing - 32 bit'</c>
+		<c>devicepicker 'Device Picker'</c>
+		<c>deviceregionmaintenance 'Device Region Maintenance'</c>
+		<c>deviceupdatecenter 'Device Update Center'</c>
+		<c>devmgmt32 'Device Manager - 32 bit'</c>
+		<c>devquerybroker 'DevQuery Background Discovery Broker'</c>
+		<c>dhcpclient32 'DHCP Client - 32 bit'</c>
+		<c>diagnostics 'Diagnostics and Troubleshooting'</c>
+		<c>directaccess 'Direct Access Connection'</c>
+		<c>directml 'Direct Machine Learning (DirectML)'</c>
+		<c>diskdiagnosis 'Disk failure diagnostics'</c>
+		<c>diskmgmt32 'Disk Management - 32 bit'</c>
+		<c>diskquota32 'Disk Quota - 32 bit'</c>
+		<c>diskraid 'DiskRAID tool'</c>
+		<c>diskusage 'Disk Usage utility'</c>
+		<c>displaybroker32 'Display Policy Service - 32 bit'</c>
+		<c>displayswitch 'Display Switch'</c>
+		<c>dnsclient32 'DNS Client - 32 bit'</c>
+		<c>dolbyatmos 'Dolby Atmos codec pack'</c>
+		<c>domainclientssvc 'IPsec Policy Agent'</c>
+		<c>driver_wvmic.inf</c>
+		<c>driver_wvmic_ext.inf</c>
+		<c>driver_wvmic_guestinterface.inf</c>
+		<c>driver_wvmic_heartbeat.inf</c>
+		<c>driver_wvmic_kvpexchange.inf</c>
+		<c>driver_wvmic_shutdown.inf</c>
+		<c>driver_wvmic_timesync.inf</c>
+		<c>driver_wvmic_vss.inf</c>
+		<c>driver_xinputhid.inf</c>
+		<c>driververifier 'Driver Verifier Manager (verifier.exe)'</c>
+		<c>driververifier32 'Driver Verifier Manager (verifier.exe) - 32 bit'</c>
+		<c>dvdplay 'DVD Play'</c>
+		<c>dynamiclighting 'Dynamic Lighting'</c>
+		<c>e2a4f912-2574-4a75-9bb0-0d023378592b 'App Resolver'</c>
+		<c>easeofaccessthemes 'Ease Of Access Themes'</c>
+		<c>edgehtml32 'HTML Viewer - 32 bit'</c>
+		<c>edgewebviewlegacy 'WebView2 Runtime (Legacy)'</c>
+		<c>edit</c>
+		<c>editiontransmogrifier 'Edition change support'</c>
+		<c>editiontransmogrifier32 'Edition change support - 32 bit'</c>
+		<c>efsfeature 'Encrypting File System (EFS) - Feature'</c>
+		<c>embeddedexperience 'Device Lockdown (Embedded Experience)'</c>
+		<c>embeddedmode 'Embedded Mode'</c>
+		<c>encprovider 'Windows Encryption Provider Host Service'</c>
+		<c>enhancedstorage 'Enhanced Storage'</c>
+		<c>entappsvc 'Enterprise App Management Service'</c>
+		<c>enterpriseclientsync 'Work Folders Client'</c>
+		<c>enterprisedataprotection 'Enterprise Data Protection (EDP/WIP)'</c>
+		<c>enttempctrl 'Enterprise Feature Control'</c>
+		<c>errorreporting 'Windows Error Reporting'</c>
+		<c>esentutil32 'Extensible Storage Engine - Utilities - 32 bit'</c>
+		<c>eudcedit 'Private Character Editor'</c>
+		<c>eventtracing 'Event Tracing for Windows (ETW)'</c>
+		<c>eventviewer32 'Event Viewer - 32 bit'</c>
+		<c>explorer32 'File Explorer - 32 bit'</c>
+		<c>f46d4000-fd22-4db4-ac8e-4e1ddde828fe 'Add Folder Suggestions dialog'</c>
+		<c>facerecognition 'Face Recognition'</c>
+		<c>fciclient 'File Server Resource Manager'</c>
+		<c>fclip 'Client License Platform - Flexible (fclip)'</c>
+		<c>filehistory 'File History'</c>
+		<c>filerevocationmanager 'File Revocation Manager - 32 bit'</c>
+		<c>filetrace 'File Trace MiniFilter'</c>
+		<c>firstlogonanim 'First-logon animation'</c>
+		<c>flipgridpwa 'Flipgrid PWA (InboxApp)'</c>
+		<c>folderredirection 'Folder Redirection'</c>
+		<c>font_arialblack 'Arial Black'</c>
+		<c>font_bahnschrift 'Bahnschrift'</c>
+		<c>font_calibri 'Calibri'</c>
+		<c>font_cambria 'Cambria'</c>
+		<c>font_cambria_regular 'Cambria &amp; Cambria Math'</c>
+		<c>font_candara 'Candara'</c>
+		<c>font_comicsansms 'ComicSansMS'</c>
+		<c>font_constantia 'Constantia'</c>
+		<c>font_corbel 'Corbel'</c>
+		<c>font_courier 'Courier'</c>
+		<c>font_ebrima 'Ebrima'</c>
+		<c>font_ebrimabold 'Ebrima Bold'</c>
+		<c>font_fixed 'Fixed'</c>
+		<c>font_franklingothic 'FranklinGothic'</c>
+		<c>font_gabriola 'Gabriola'</c>
+		<c>font_georgia 'Georgia'</c>
+		<c>font_impact 'Impact'</c>
+		<c>font_inkfree 'Ink Free'</c>
+		<c>font_javanesetext 'Javanese Text'</c>
+		<c>font_lucidasans 'Lucida Sans Unicode'</c>
+		<c>font_malgungothic 'Malgun Gothic'</c>
+		<c>font_malgungothicbold 'Malgun Gothic Bold'</c>
+		<c>font_malgungothicsemilight 'Malgun Gothic SemiLight'</c>
+		<c>font_microsofthimalaya 'Microsoft Himalaya'</c>
+		<c>font_microsoftjhengheibold 'Microsoft JhengHei Bold &amp; Microsoft JhengHei UI Bold'</c>
+		<c>font_microsoftjhengheilight 'Microsoft JhengHei Light &amp; Microsoft JhengHei UI Light'</c>
+		<c>font_microsoftyaheibold 'Microsoft YaHei Bold &amp; Microsoft YaHei UI Bold'</c>
+		<c>font_microsoftyaheilight 'Microsoft YaHei Light &amp; Microsoft YaHei UI Light'</c>
+		<c>font_mingliub 'MingLiU-ExtB &amp; PMingLiU-ExtB &amp; MingLiU_HKSCS-ExtB'</c>
+		<c>font_msgothic 'MS Gothic &amp; MS UI Gothic &amp; MS PGothic'</c>
+		<c>font_mvboli 'MV Boli'</c>
+		<c>font_myanmartext 'Myanmar Text'</c>
+		<c>font_myanmartextbold 'Myanmar Text Bold'</c>
+		<c>font_newtailue 'Microsoft New Tai Lue'</c>
+		<c>font_newtailuebold 'Microsoft New Tai Lue Bold'</c>
+		<c>font_oem 'OEM'</c>
+		<c>font_palatinolinotype 'PalatinoLinotype'</c>
+		<c>font_phagspa 'Microsoft PhagsPa'</c>
+		<c>font_phagspabold 'Microsoft PhagsPa Bold'</c>
+		<c>font_sans_serif_collection 'Sans Serif Collection'</c>
+		<c>font_segoe_ui_variable 'Segoe UI Variable'</c>
+		<c>font_segoeprint 'Segoe Print'</c>
+		<c>font_segoeprintbold 'Segoe Print Bold'</c>
+		<c>font_segoescript 'SegoeScript'</c>
+		<c>font_simsun 'SimSun &amp; NSimSun'</c>
+		<c>font_simsunb 'SimSun-ExtB'</c>
+		<c>font_simsunextg 'Simsun-ExtG'</c>
+		<c>font_sitka 'Sitka'</c>
+		<c>font_small 'Small'</c>
+		<c>font_sylfaen 'Sylfaen'</c>
+		<c>font_system 'System'</c>
+		<c>font_taile 'Microsoft Tai Le'</c>
+		<c>font_tailebold 'Microsoft Tai Le Bold'</c>
+		<c>font_trebuchetms 'TrebuchetMS'</c>
+		<c>font_vector 'Vector'</c>
+		<c>font_verdana 'Verdana'</c>
+		<c>font_webdings 'Webdings'</c>
+		<c>font_yibaiti 'Microsoft Yi Baiti'</c>
+		<c>font_yugothic 'Yu Gothic Regular &amp; Yu Gothic UI Semilight'</c>
+		<c>font_yugothicbold 'Yu Gothic Bold &amp; Yu Gothic UI Semibold &amp; Yu Gothic UI Bold'</c>
+		<c>font_yugothiclight 'Yu Gothic Light &amp; Yu Gothic UI Light'</c>
+		<c>font_yugothicmedium 'Yu Gothic Medium &amp; Yu Gothic UI Regular'</c>
+		<c>fontpreviewer32 'Font previewer - 32 bit'</c>
+		<c>frameservernet 'Networked Camera Source'</c>
+		<c>fsmgmt 'Shared Folders UI'</c>
+		<c>fsmgmt32 'Shared Folders UI - 32 bit'</c>
+		<c>gameexplorer 'Game Explorer'</c>
+		<c>gameinputsvc 'GameInput Service'</c>
+		<c>graphicsperfsvc 'Graphics performance monitor service'</c>
+		<c>guardedhost 'Guarded Host'</c>
+		<c>hbaapi 'Host Bus Adapter (HBA) API'</c>
+		<c>help 'Windows Help content'</c>
+		<c>helpsupport 'Help file support (CHM)'</c>
+		<c>hotpatch 'Windows Hotpatching'</c>
+		<c>hwreqchk 'Hardware Requirements Check library'</c>
+		<c>hwsupport_floppy 'Floppy disk'</c>
+		<c>hwsupport_infrared 'Infrared devices'</c>
+		<c>hwsupport_internetprintingclient 'Internet Printing Client'</c>
+		<c>hwsupport_modemsettings 'Shared modem settings (mdmgl*.inf)'</c>
+		<c>hwsupport_telephony 'Telephony'</c>
+		<c>hwsupport_tv 'TV Tuner codecs and support'</c>
+		<c>hyperv 'Hyper-V'</c>
+		<c>icu32 'International Unicode Components - 32 bit'</c>
+		<c>iis 'Internet Information Server (IIS)'</c>
+		<c>ikeext 'IKE and AuthIP IPsec Keying Modules'</c>
+		<c>imapiv232 'Image Mastering API (IMAPIv2) - 32 bit'</c>
+		<c>indeo 'Intel Indeo Codecs'</c>
+		<c>inputservice32 'Input Service (CTFMON) - 32 bit'</c>
+		<c>inputswitchtoasthandler 'Input Switch Toast Handler'</c>
+		<c>inputviewexperience 'Input View Experience'</c>
+		<c>insiderhub 'Windows Insider Program'</c>
+		<c>installshieldwow64 'InstallShield WOW64'</c>
+		<c>internetexplorer 'Internet Explorer'</c>
+		<c>internetexplorer32 'Internet Explorer - 32 bit'</c>
+		<c>ipt 'Identity Protection Technology (Intel IPT)'</c>
+		<c>ipxlatcfg 'IP Translation Configuration Service'</c>
+		<c>iscsi 'iSCSI Initiator'</c>
+		<c>isoburn 'Windows Disc Image Burning Tool'</c>
+		<c>isolatedusermode 'Virtualization-based security (VBS)'</c>
+		<c>jscript9legacy 'JScript9 - Legacy'</c>
+		<c>kerberos32 'Kerberos Client - 32 bit'</c>
+		<c>kerneldebug 'Kernel Debugging'</c>
+		<c>la57 '57-bit Linear Addressing'</c>
+		<c>langafrikaans 'Afrikaans'</c>
+		<c>langalbanian 'Albanian'</c>
+		<c>langamharic 'Amharic'</c>
+		<c>langarabic 'Arabic'</c>
+		<c>langarmenian 'Armenian'</c>
+		<c>langassamese 'Assamese'</c>
+		<c>langazerbaijani 'Azerbaijani'</c>
+		<c>langbasque 'Basque'</c>
+		<c>langbelarusian 'Belarusian'</c>
+		<c>langbengali_india 'Bengali (India)'</c>
+		<c>langbosnian 'Bosnian'</c>
+		<c>langbulgarian 'Bulgarian'</c>
+		<c>langcatalan 'Catalan'</c>
+		<c>langcherokee 'Cherokee'</c>
+		<c>langchineses 'Chinese Simplified'</c>
+		<c>langcroatian 'Croatian'</c>
+		<c>langczech 'Czech'</c>
+		<c>langdanish 'Danish'</c>
+		<c>langdutch 'Dutch'</c>
+		<c>langenglishgb 'English (GB)'</c>
+		<c>langestonian 'Estonian'</c>
+		<c>langfilipino 'Filipino'</c>
+		<c>langfinnish 'Finnish'</c>
+		<c>langfrench 'French'</c>
+		<c>langfrenchcanadian 'French (Canadian)'</c>
+		<c>langgalician 'Galician'</c>
+		<c>langgeorgian 'Georgian'</c>
+		<c>langgerman 'German'</c>
+		<c>langgreek 'Greek'</c>
+		<c>langgujarati 'Gujarati'</c>
+		<c>langhebrew 'Hebrew'</c>
+		<c>langhindi 'Hindi'</c>
+		<c>langhungarian 'Hungarian'</c>
+		<c>langicelandic 'Icelandic'</c>
+		<c>langindonesian 'Indonesian'</c>
+		<c>langirish 'Irish'</c>
+		<c>langitalian 'Italian'</c>
+		<c>langkannada 'Kannada'</c>
+		<c>langkazakh 'Kazakh'</c>
+		<c>langkhmer 'Khmer'</c>
+		<c>langkonkani 'Konkani'</c>
+		<c>langlao 'Lao'</c>
+		<c>langlatvian 'Latvian'</c>
+		<c>langlithuanian 'Lithuanian'</c>
+		<c>langluxembourgish 'Luxembourgish'</c>
+		<c>langmacedonian 'Macedonian'</c>
+		<c>langmalay_malaysia 'Malay (Malaysia)'</c>
+		<c>langmalayalam 'Malayalam'</c>
+		<c>langmaltese 'Maltese'</c>
+		<c>langmaori 'Maori'</c>
+		<c>langmarathi 'Marathi'</c>
+		<c>langnepali 'Nepali'</c>
+		<c>langnorwegian 'Norwegian'</c>
+		<c>langodia 'Odia'</c>
+		<c>langpersian 'Persian'</c>
+		<c>langpolish 'Polish'</c>
+		<c>langportuguesebr 'Portuguese (Brazilian)'</c>
+		<c>langportuguesept 'Portuguese'</c>
+		<c>langpunjabi 'Punjabi'</c>
+		<c>langquechua 'Quechua'</c>
+		<c>langromanian 'Romanian'</c>
+		<c>langrussian 'Russian'</c>
+		<c>langscottish 'Scottish'</c>
+		<c>langserbian 'Serbian'</c>
+		<c>langslovak 'Slovak'</c>
+		<c>langslovenian 'Slovenian'</c>
+		<c>langspanish 'Spanish'</c>
+		<c>langswedish 'Swedish'</c>
+		<c>langtamil 'Tamil'</c>
+		<c>langtatar 'Tatar'</c>
+		<c>langtelugu 'Telugu'</c>
+		<c>langthai 'Thai'</c>
+		<c>langturkish 'Turkish'</c>
+		<c>langukrainian 'Ukrainian'</c>
+		<c>langurdu 'Urdu'</c>
+		<c>languyghur 'Uyghur'</c>
+		<c>languzbek 'Uzbek'</c>
+		<c>langvalencian 'Valencian'</c>
+		<c>langvietnamese 'Vietnamese'</c>
+		<c>langwelsh 'Welsh'</c>
+		<c>laps 'Windows Local Administrator Password Solution(LAPS)'</c>
+		<c>lcu 'Cumulative Update cache (LCU)'</c>
+		<c>livecaptions 'Live Captions'</c>
+		<c>location 'Location Service'</c>
+		<c>lockscreens 'Lock Screen backgrounds'</c>
+		<c>lpasvc 'Local Profile Assistant Service'</c>
+		<c>lusrmgr32 'Local Users and Groups Manager - 32 bit'</c>
+		<c>lxss 'Windows Subsystem for Linux'</c>
+		<c>mail 'Windows Mail'</c>
+		<c>mailcommdll 'Windows Mail Communications Library'</c>
+		<c>manifestbackup 'Manifest Backup (WinSxS\Backup)'</c>
+		<c>mapcontrol 'Map Control'</c>
+		<c>mcmsvc 'Mobile Connectivity Management'</c>
+		<c>mediacodec 'Windows Media Codecs'</c>
+		<c>mediacodec32 'Windows Media Codecs - 32 bit'</c>
+		<c>mediacodeccore 'Windows Media Codecs (Core)'</c>
+		<c>mediafoundation32 'Media Foundation - 32 bit'</c>
+		<c>mediaplayer 'Windows Media Player'</c>
+		<c>mediaplayer32 'Windows Media Player - 32 bit'</c>
+		<c>mediaplayernetworksharing 'WMP Network Sharing Service'</c>
+		<c>mediaplayernetworksharing32 'WMP Network Sharing Service - 32 bit'</c>
+		<c>mediastreaming 'Media Streaming'</c>
+		<c>mediastreamingreceiver 'Media Streaming - Receiver'</c>
+		<c>mediastreamingtransmitter 'Media Streaming - Transmitter'</c>
+		<c>memorydiagnostic 'Memory Diagnostic'</c>
+		<c>messagingsvc 'Messaging Service'</c>
+		<c>microsoft.accountscontrol 'Email and accounts'</c>
+		<c>microsoft.asynctextservice 'AsyncTextService'</c>
+		<c>microsoft.creddialoghost 'Credential Dialog'</c>
+		<c>microsoft.ecapp 'Eye Control'</c>
+		<c>microsoft.lockapp 'Windows Default Lock Screen'</c>
+		<c>microsoft.microsoftedge 'Microsoft Edge (Legacy)'</c>
+		<c>microsoft.microsoftedgedevtoolsclient 'Microsoft Edge DevTools Client'</c>
+		<c>microsoft.sechealthui 'Microsoft Defender Antivirus'</c>
+		<c>microsoft.win32webviewhost 'Desktop App Web Viewer'</c>
+		<c>microsoft.windows.apprep.chxapp 'SmartScreen'</c>
+		<c>microsoft.windows.assignedaccesslockapp 'Assigned Access Lock app'</c>
+		<c>microsoft.windows.capturepicker 'Capture Picker'</c>
+		<c>microsoft.windows.contentdeliverymanager 'Content Delivery Manager'</c>
+		<c>microsoft.windows.narratorquickstart 'Narrator'</c>
+		<c>microsoft.windows.oobenetworkcaptiveportal 'Captive Portal Flow'</c>
+		<c>microsoft.windows.oobenetworkconnectionflow 'Network Connection Flow'</c>
+		<c>microsoft.windows.parentalcontrols 'Microsoft Family Safety'</c>
+		<c>microsoft.windows.peopleexperiencehost 'Windows Shell Experience'</c>
+		<c>microsoft.windows.pinningconfirmationdialog 'PinningConfirmationDialog'</c>
+		<c>microsoft.windows.secureassessmentbrowser 'Take a Test'</c>
+		<c>microsoft.windows.xgpuejectdialog 'Safely Remove Device'</c>
+		<c>microsoftwindows.client.aix 'Windows Copilot (Windows Feature Experience Pack)'</c>
+		<c>microsoftwindows.client.coreai 'Windows Feature Experience Pack - CoreAI'</c>
+		<c>midi2 'Microsoft GS Wavetable SW Synth (MIDI) 2.0'</c>
+		<c>migwiz 'Easy Transfer'</c>
+		<c>mixedreality 'Windows Mixed Reality'</c>
+		<c>mmc32 'Microsoft Management Console (MMC) - 32 bit'</c>
+		<c>mmga 'MMGA MAPI'</c>
+		<c>mobiledevicemanagement 'Mobile Device Management (MDM)'</c>
+		<c>mobilepc</c>
+		<c>mobilepc_location 'Location notifications'</c>
+		<c>mobilepc_networkprojection 'Network Projection'</c>
+		<c>mobilepc_sensors 'Sensors'</c>
+		<c>mpe 'Microsoft Privacy Engine'</c>
+		<c>mpeg2splitter 'MPEG-2 Splitter'</c>
+		<c>mptf 'Microsoft Platform Thermal Framework (MPTF)'</c>
+		<c>msdtc 'Distributed Transaction Coordinator (DTC)'</c>
+		<c>mtf 'Language MTF'</c>
+		<c>multipointconnector 'MultiPoint Connector'</c>
+		<c>naturalauthentication 'Natural Authentication'</c>
+		<c>naturallanglegacy 'Natural Language - Legacy'</c>
+		<c>ncdauto 'Network Connected Devices Auto-Setup'</c>
+		<c>ncsiuwpapp 'Network Connectivity Status Indicator (NCSI)'</c>
+		<c>ndiscap 'NDIS Packet Capturing (NDISCAP)'</c>
+		<c>ndisimplat 'Network Adapter Multiplexor Protocol'</c>
+		<c>ndu 'Network Data Usage Monitoring Driver'</c>
+		<c>netbios 'NetBIOS over TCP transport'</c>
+		<c>netcenter 'Network and Sharing Center'</c>
+		<c>netcmd32 'Net Command-Line Tool (net.exe) - 32 bit'</c>
+		<c>netprofile32 'Network Profile - 32 bit'</c>
+		<c>netqos 'Quality of Service Packet Scheduler (QoS)'</c>
+		<c>netsh32 'Network Shell (netsh.exe) - 32 bit'</c>
+		<c>nettopology 'Link-Layer Topology Discovery protocol (LLTD)'</c>
+		<c>nfc 'Near Field Communication (NFC)'</c>
+		<c>nfsclient 'NFS Administrative Tools'</c>
+		<c>notificationintelligenceplatform 'Notification Intelligence Platform'</c>
+		<c>nowplaying 'Now Playing Session Manager'</c>
+		<c>ntvdm 'NTVDM 16 bit subsystem'</c>
+		<c>offlinefiles 'Offline Files'</c>
+		<c>onedrive</c>
+		<c>openssh</c>
+		<c>optionalfeatures 'Optional Features'</c>
+		<c>osk_acc 'On-Screen Keyboard (Accessibility tools)'</c>
+		<c>oskthemes 'On-Screen Keyboard (Windows Personalization themes)'</c>
+		<c>otherthemes 'Windows Personalization themes'</c>
+		<c>outlookpwa 'Outlook PWA (InboxApp)'</c>
+		<c>payments</c>
+		<c>pdfreader 'Windows Reader (PDF)'</c>
+		<c>penservice 'Pen Service'</c>
+		<c>perfmon 'Performance Monitor'</c>
+		<c>performancerecorder 'Windows Performance Recorder'</c>
+		<c>perftools 'Performance CMD Tools for Tracing'</c>
+		<c>phonesvc 'Phone Service'</c>
+		<c>photocodec 'Photo codec'</c>
+		<c>photocodec32 'Photo codec - 32 bit'</c>
+		<c>photoviewer 'Photo Viewer'</c>
+		<c>photoviewer32 'Photo Viewer - 32 bit'</c>
+		<c>pickerhost32 'File Picker UI Host - 32 bit'</c>
+		<c>picturepassword 'Picture password'</c>
+		<c>pimindexmaintenancesvc 'Contact Data'</c>
+		<c>pitr 'Point-in-time Restore (PITR)'</c>
+		<c>pktmon 'Packet Monitor (PktMon)'</c>
+		<c>pla 'Performance Logs and Alerts'</c>
+		<c>pluton 'Microsoft Pluton security processor'</c>
+		<c>pos 'Point of Service (POS)'</c>
+		<c>powershell32 'PowerShell - 32 bit'</c>
+		<c>powershelldsc 'Desired State Configuration (DSC)'</c>
+		<c>powershellise32 'PowerShell ISE - 32 bit'</c>
+		<c>print3d32 'Print 3D - 32 bit'</c>
+		<c>printmgmt 'Print Management'</c>
+		<c>printtopdf 'Print to PDF'</c>
+		<c>printworkflow 'Print Workflow Service'</c>
+		<c>projfs 'Projected File System (ProjFS)'</c>
+		<c>proquota 'Profile Quota'</c>
+		<c>proximity 'Proximity - Wi-Fi Direct'</c>
+		<c>pushnotificationssvc 'Windows Push Notifications Service (System)'</c>
+		<c>pushtoinstall 'Windows PushToInstall Service'</c>
+		<c>pwdless 'Intelligent Passwordless task'</c>
+		<c>quickmachinerecovery 'Setup Recovery Data'</c>
+		<c>quiethours 'Quiet Hours (Focus Assist)'</c>
+		<c>rasauto 'Remote Access Auto Connection Manager'</c>
+		<c>rdc 'Remote Differential Compression (RDC)'</c>
+		<c>rdmaping 'Remote Direct Memory Access (RDMA) ping tool'</c>
+		<c>rdpclient32 'Remote Desktop Client - 32 bit'</c>
+		<c>rdpserver 'Remote Desktop Server'</c>
+		<c>rdpserverlic 'Remote Desktop Licensing'</c>
+		<c>readyboost</c>
+		<c>regedit32 'Registry Editor - 32 bit'</c>
+		<c>reliabilityanalysis 'Reliability Analysis Services'</c>
+		<c>remoteactivex32 'Remote Desktop Services ActiveX Client - 32 bit'</c>
+		<c>remoteassistance 'Remote Assistance'</c>
+		<c>remotefx</c>
+		<c>remoteportredirector 'Remote Desktop Services Port Redirector'</c>
+		<c>remoteregistry 'Remote Registry'</c>
+		<c>retaildemo 'Retail Demo Content'</c>
+		<c>rightsmanagement 'Rights Management support'</c>
+		<c>rotationmanager 'Auto-Rotation Manager'</c>
+		<c>rpclocator 'Remote Procedure Call (RPC) Locator'</c>
+		<c>ruxim 'Reusable UX Interaction Manager (RUXIM)'</c>
+		<c>screensavers</c>
+		<c>scripto</c>
+		<c>search 'Windows Search'</c>
+		<c>secedit32 'Local Security Policy Editor - 32 bit'</c>
+		<c>securestartup 'BitLocker Drive Encryption'</c>
+		<c>securitycenter 'Security Center'</c>
+		<c>sendmail 'Send To Mail and Desktop'</c>
+		<c>sens 'System Event Notification Service (SENS)'</c>
+		<c>servicesmmc32 'Services (management console) - 32 bit'</c>
+		<c>settingsync 'Setting Sync'</c>
+		<c>sharedpc 'Shared PC mode'</c>
+		<c>sharehost32 'Share Host - 32 bit'</c>
+		<c>sharemediacpl 'Share Media Control Panel'</c>
+		<c>sharetargets32 'Share Targets - 32 bit'</c>
+		<c>shellappruntime 'Shell App Runtime'</c>
+		<c>sihclient 'Server-Initiated Healing Client'</c>
+		<c>simpletcp 'Simple TCP/IP services'</c>
+		<c>skypeortc 'Skype ORTC'</c>
+		<c>sleepstudy 'Sleep Study'</c>
+		<c>smartactionplatform 'Smart Action Platform'</c>
+		<c>smbdirect 'SMB Direct (RDMA)'</c>
+		<c>smbv1 'SMB v1'</c>
+		<c>smbwitnessclientapi 'SMB Witness Client API'</c>
+		<c>sndvol 'Volume mixer (Legacy)'</c>
+		<c>sndvol32 'Volume mixer (Legacy) - 32 bit'</c>
+		<c>sorting 'Natural Language - Sorting'</c>
+		<c>soundsdefault 'Sounds (Default)'</c>
+		<c>soundthemes 'Sound Themes'</c>
+		<c>soundwire</c>
+		<c>spellchecking 'Spell Checking'</c>
+		<c>srumon 'Data Usage service'</c>
+		<c>sstackwow64 'Servicing stack - 32 bit'</c>
+		<c>startexperiencesapp 'Start Experiences (InboxApp)'</c>
+		<c>staticfontcache 'Static Font Cache'</c>
+		<c>stepsrecorder 'Steps Recorder'</c>
+		<c>storagemanagement 'Storage Management'</c>
+		<c>storagemanagement32 'Storage Management - 32 bit'</c>
+		<c>storageqos 'Storage Quality of Service (Storage QoS)'</c>
+		<c>storagespaces 'Storage Spaces'</c>
+		<c>sudo</c>
+		<c>sustainabilityservice 'Sustainability Service'</c>
+		<c>symboliclinks 'Legacy symbolic links'</c>
+		<c>synccenter 'Sync Center'</c>
+		<c>sysmon</c>
+		<c>sysprep 'System Preparation tool (Sysprep)'</c>
+		<c>systemreset 'System Reset for Windows'</c>
+		<c>systemrestore 'System Restore'</c>
+		<c>tabletextservice 'Table Text Service'</c>
+		<c>tabletpc 'Tablet PC'</c>
+		<c>targetedcontent32 'Targeted Content Service - 32 bit'</c>
+		<c>taskmanager32 'Task Manager - 32 bit'</c>
+		<c>taskschdmsc32 'Task Scheduler (management console) - 32 bit'</c>
+		<c>telnetclient 'Telnet Client'</c>
+		<c>tempcache 'Cache and temp files'</c>
+		<c>textprediction 'Text prediction'</c>
+		<c>tftpclient 'TFTP client'</c>
+		<c>thumbcache32 'Thumbnail Cache - 32 bit'</c>
+		<c>tieringengine 'Storage Tiers Management'</c>
+		<c>timedate32 'Date and Time (Legacy  timedate.cpl) - 32 bit'</c>
+		<c>timetraveldebugger 'Time Travel Debugger (TTD)'</c>
+		<c>tokenbroker32 'Web Account Manager - 32 bit'</c>
+		<c>tpmmmc32 'Trusted Platform Module (TPM) (management console) - 32 bit'</c>
+		<c>troubleshootingsvc 'Recommended Troubleshooting service'</c>
+		<c>uev 'User Experience Virtualization (UE-V)'</c>
+		<c>unexpectedcodepath 'Unexpected Codepath'</c>
+		<c>universalprintsvc 'Universal Print Management Service'</c>
+		<c>unp 'Universal Notification Platform (UNP)'</c>
+		<c>upnp 'UPnP Device Host'</c>
+		<c>userchoiceprotection 'User Choice Protection'</c>
+		<c>userdatasvc 'User Data Access'</c>
+		<c>userdeviceregistration 'User Device Registration'</c>
+		<c>vbscript32 'VBScript - 32 bit'</c>
+		<c>voiceaccess 'Voice Access'</c>
+		<c>vss 'Volume Shadow Copy'</c>
+		<c>waasassessment 'Windows Update Medic Service'</c>
+		<c>wallet 'Wallet Service'</c>
+		<c>wallpapers 'Wallpapers (Themes)'</c>
+		<c>warpjitsvc 'DirectX WARP JIT Service'</c>
+		<c>wcn 'Windows Connect Now (WCN)'</c>
+		<c>webauth32 'Web Authentication - 32 bit'</c>
+		<c>webcamexperience 'Webcam Experience'</c>
+		<c>webclient</c>
+		<c>webthreatdefense 'Web Threat Defense Service'</c>
+		<c>wfmmc32 'Windows Firewall (management console) - 32 bit'</c>
+		<c>whesvc 'Windows Health and Optimized Experiences'</c>
+		<c>widgetsplatformruntimeapp 'Widgets Platform Runtime (InboxApp)'</c>
+		<c>wificloudstore 'WiFi Sync Provider'</c>
+		<c>wifinetworkmanager 'Wi-Fi Network Manager (Wi-Fi Sense)'</c>
+		<c>winai 'Windows AI Machine Learning'</c>
+		<c>windows.cbspreview 'Windows Barcode Preview'</c>
+		<c>windows.devicesflow32 'Devices Flow - 32 bit'</c>
+		<c>windowsglobalization32 'Windows Globalization - 32 bit'</c>
+		<c>windowstogo 'Windows To Go'</c>
+		<c>windowsupdate 'Windows Update'</c>
+		<c>wini3c 'Improved Inter-Integrated Circuit (I3C)'</c>
+		<c>winocr 'Windows TIFF IFilter (OCR)'</c>
+		<c>winre 'Windows Recovery (WinRE)'</c>
+		<c>winresume 'Resume from Hibernate'</c>
+		<c>winrm 'Windows Remote Management (WS-Management)'</c>
+		<c>winsat 'Windows System Assessment Tool (WinSAT)'</c>
+		<c>winsxs 'Windows Component Store (WinSxS)'</c>
+		<c>wmicommandlineutility 'Windows Management Instrumentation - Command line utility (WMIC)'</c>
+		<c>wpdbusenum 'Portable Device Enumerator Service'</c>
+		<c>wuqisvc 'Microsoft Usage and Quality Insights'</c>
+		<c>ztdns 'Zero Trust DNS'</c>
+	</RemoveComponents>
+	<Compatibility>
+		<ComponentFeatures>
+			<Feature enabled="no">AppGuard</Feature>
+			<Feature enabled="yes">Battle.net</Feature>
+			<Feature enabled="yes">YubiKey</Feature>
+			<Feature enabled="yes">Bluetooth</Feature>
+			<Feature enabled="yes">USBCamera</Feature>
+			<Feature enabled="yes">CapFrameX</Feature>
+			<Feature enabled="yes">Discord</Feature>
+			<Feature enabled="no">Docker</Feature>
+			<Feature enabled="yes">EAC</Feature>
+			<Feature enabled="no">FileSharing</Feature>
+			<Feature enabled="no">Hyper-V</Feature>
+			<Feature enabled="no">iCloud</Feature>
+			<Feature enabled="no">Kaspersky</Feature>
+			<Feature enabled="yes">LegacyGames</Feature>
+			<Feature enabled="yes">OfficeSupport</Feature>
+			<Feature enabled="yes">AppxSupport</Feature>
+			<Feature enabled="yes">Netflix</Feature>
+			<Feature enabled="yes">NetworkDiscovery</Feature>
+			<Feature enabled="no">NightLight</Feature>
+			<Feature enabled="yes">NvidiaSetup</Feature>
+			<Feature enabled="no">OneNote</Feature>
+			<Feature enabled="yes">OOBE</Feature>
+			<Feature enabled="no">PITR</Feature>
+			<Feature enabled="yes">Printing</Feature>
+			<Feature enabled="yes">Recommended-All</Feature>
+			<Feature enabled="no">RDPServer</Feature>
+			<Feature enabled="no">SamsungSwitch</Feature>
+			<Feature enabled="yes">Scanning</Feature>
+			<Feature enabled="no">ServicingStack</Feature>
+			<Feature enabled="yes">ShellSearchSupport</Feature>
+			<Feature enabled="yes">Spotify</Feature>
+			<Feature enabled="no">SFC</Feature>
+			<Feature enabled="yes">DefaultFonts</Feature>
+			<Feature enabled="no">SafeMode</Feature>
+			<Feature enabled="no">TeamViewer</Feature>
+			<Feature enabled="no">Recommended-Tablet</Feature>
+			<Feature enabled="yes">USBModem</Feature>
+			<Feature enabled="yes">USB</Feature>
+			<Feature enabled="yes">VideoPlayback</Feature>
+			<Feature enabled="yes">VPN</Feature>
+			<Feature enabled="no">VisualStudio</Feature>
+			<Feature enabled="no">VSS</Feature>
+			<Feature enabled="yes">Activation</Feature>
+			<Feature enabled="no">WFC</Feature>
+			<Feature enabled="yes">WinSetup</Feature>
+			<Feature enabled="yes">WindowsStore</Feature>
+			<Feature enabled="no">WindowsUpdate</Feature>
+			<Feature enabled="yes">WLAN</Feature>
+		</ComponentFeatures>
+		<MachineDrivers>
+			<Machine enabled="yes">HostMachine</Machine>
+			<Machine enabled="yes">Hyper-V VM</Machine>
+			<Machine enabled="yes">Parallels VM</Machine>
+			<Machine enabled="yes">Virtual Box VM</Machine>
+			<Machine enabled="yes">VMware VM</Machine>
+		</MachineDrivers>
+	</Compatibility>
+	<Features>
+		<Feature name="Microsoft.Windows.Wifi.Client.Broadcom.Bcmpciedhd63~~~~0.0.1.0">false</Feature>
+		<Feature name="Microsoft.Windows.Wifi.Client.Broadcom.Bcmwl63a~~~~0.0.1.0">false</Feature>
+		<Feature name="Microsoft.Windows.Wifi.Client.Broadcom.Bcmwl63al~~~~0.0.1.0">false</Feature>
+		<Feature name="Language.Handwriting~~~en-us~0.0.1.0">false</Feature>
+		<Feature name="Language.OCR~~~en-us~0.0.1.0">false</Feature>
+		<Feature name="Microsoft.Windows.Ethernet.Client.Intel.E1i68x64~~~~0.0.1.0">false</Feature>
+		<Feature name="Microsoft.Windows.Ethernet.Client.Intel.E2f68~~~~0.0.1.0">false</Feature>
+		<Feature name="Microsoft.Windows.Wifi.Client.Intel.Netwbw02~~~~0.0.1.0">false</Feature>
+		<Feature name="Microsoft.Windows.Wifi.Client.Intel.Netwew00~~~~0.0.1.0">false</Feature>
+		<Feature name="Microsoft.Windows.Wifi.Client.Intel.Netwew01~~~~0.0.1.0">false</Feature>
+		<Feature name="Microsoft.Windows.Wifi.Client.Intel.Netwlv64~~~~0.0.1.0">false</Feature>
+		<Feature name="Microsoft.Windows.Wifi.Client.Intel.Netwns64~~~~0.0.1.0">false</Feature>
+		<Feature name="Microsoft.Windows.Wifi.Client.Intel.Netwsw00~~~~0.0.1.0">false</Feature>
+		<Feature name="Microsoft.Windows.Wifi.Client.Intel.Netwtw02~~~~0.0.1.0">false</Feature>
+		<Feature name="Microsoft.Windows.Wifi.Client.Intel.Netwtw04~~~~0.0.1.0">false</Feature>
+		<Feature name="Microsoft.Windows.Wifi.Client.Intel.Netwtw06~~~~0.0.1.0">false</Feature>
+		<Feature name="Microsoft.Windows.Wifi.Client.Intel.Netwtw08~~~~0.0.1.0">false</Feature>
+		<Feature name="Microsoft.Windows.Wifi.Client.Intel.Netwtw10~~~~0.0.1.0">false</Feature>
+		<Feature name="Microsoft.Windows.Wifi.Client.Marvel.Mrvlpcie8897~~~~0.0.1.0">false</Feature>
+		<Feature name="Edge.Webview2.Platform~~~~">false</Feature>
+		<Feature name="Microsoft.Windows.Wifi.Client.Qualcomm.Athw8x~~~~0.0.1.0">false</Feature>
+		<Feature name="Microsoft.Windows.Wifi.Client.Qualcomm.Athwnx~~~~0.0.1.0">false</Feature>
+		<Feature name="Microsoft.Windows.Wifi.Client.Qualcomm.Qcamain10x64~~~~0.0.1.0">false</Feature>
+		<Feature name="Microsoft.Windows.Wifi.Client.Ralink.Netr28x~~~~0.0.1.0">false</Feature>
+		<Feature name="Microsoft.Windows.Ethernet.Client.Realtek.Rtcx21x64~~~~0.0.1.0">false</Feature>
+		<Feature name="Microsoft.Windows.Wifi.Client.Realtek.Rtl8192se~~~~0.0.1.0">false</Feature>
+		<Feature name="Microsoft.Windows.Wifi.Client.Realtek.Rtwlane~~~~0.0.1.0">false</Feature>
+		<Feature name="Microsoft.Windows.Wifi.Client.Realtek.Rtwlane01~~~~0.0.1.0">false</Feature>
+		<Feature name="Microsoft.Windows.Wifi.Client.Realtek.Rtwlane13~~~~0.0.1.0">false</Feature>
+		<Feature name="Microsoft.Windows.Ethernet.Client.Vmware.Vmxnet3~~~~0.0.1.0">false</Feature>
+		<Feature name="Media.WindowsMediaPlayer~~~~0.0.12.0">false</Feature>
+	</Features>
+	<Packages>
+		<Options>
+			<CleanHotfixedLeftovers>3</CleanHotfixedLeftovers>
+		</Options>
+		<File>D:\NTLite\Cache\Updates\11.24H2.x64\microsoft-windows-netfx3-ondemand-package~31bf3856ad364e35~amd64~~.cab</File>
+		<File>D:\NTLite\Cache\Updates\11.24H2.x64\Microsoft.UI.Xaml.2.8_8.2501.31001.0_x64.appx</File>
+		<File>D:\NTLite\Cache\Updates\11.24H2.x64\Microsoft.VCLibs.140.00.UWPDesktop_14.0.33728.0_x64.appx</File>
+		<File>D:\NTLite\Cache\Updates\11.24H2.x64\Microsoft.VCLibs.140.00_14.0.33519.0_x64.appx</File>
+		<File>D:\NTLite\Cache\Updates\11.24H2.x64\Microsoft.WindowsAppRuntime.1.8_8000.616.304.0_x64.appx</File>
+		<File>D:\NTLite\Cache\Updates\11.24H2.x64\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle</File>
+	</Packages>
+	<Drivers>
+		<File>D:\Drivers\Monitors\acer_s271hl.inf_amd64_f829e28ddd19503b\ACER_S271HL.inf</File>
+		<File>D:\Drivers\Software components\amdfdans.inf_amd64_4642113bda5f5b9b\AMDFDANS.inf</File>
+		<File>D:\Drivers\Storage controllers\iastorvd.inf_amd64_10cac26f038af014\iaStorVD.inf</File>
+		<File>D:\Drivers\Network adapters\mtkwl6ex.inf_amd64_01d61b4d701707d3\mtkwl6ex.inf</File>
+		<File>D:\Drivers\Audio Processing Objects (APOs)\voiceclarityep_audio_component.inf_amd64_76974bd7342f9cf5\voiceclarityep_audio_component.inf</File>
+		<File>D:\Drivers\Network adapters\rt640x64.inf_amd64_4449f152c11e9535\rt640x64.inf</File>
+	</Drivers>
+	<Tweaks>
+		<Settings>
+			<TweakGroup name="DesktopTweaks">
+				<Tweak name="InprocServer32\"></Tweak>
+				<Tweak name="Personalize\AppsUseLightTheme">1</Tweak>
+				<Tweak name="Personalize\SystemUsesLightTheme">1</Tweak>
+				<Tweak name="Personalize\ColorPrevalence">1</Tweak>
+				<Tweak name="DWM\ColorPrevalence">0</Tweak>
+				<Tweak name="Communications\ConfigureChatAutoInstall">0</Tweak>
+			</TweakGroup>
+			<TweakGroup name="Explorer">
+				<Tweak name="Advanced\HideDrivesWithNoMedia">1</Tweak>
+			</TweakGroup>
+			<TweakGroup name="PowerAndShutdown">
+				<Tweak name="Power\HiberbootEnabled">0</Tweak>
+			</TweakGroup>
+			<TweakGroup name="Privacy">
+				<Tweak name="Client\OptInOrOutPreference">0</Tweak>
+				<Tweak name="System\AllowExperimentation">0</Tweak>
+				<Tweak name="System\AllowLocation">0</Tweak>
+				<Tweak name="DataCollection\AllowTelemetry">0</Tweak>
+				<Tweak name="1.7\EnableAutocorrection">0</Tweak>
+				<Tweak name="ContentDeliveryManager\SilentInstalledAppsEnabled">0</Tweak>
+				<Tweak name="InputPersonalization\AllowInputPersonalization">0</Tweak>
+			</TweakGroup>
+			<TweakGroup name="StartTweaks">
+				<Tweak name="Explorer\HideRecentlyAddedApps">1</Tweak>
+				<Tweak name="Explorer\ShowOrHideMostUsedApps">0</Tweak>
+				<Tweak name="Advanced\Start_IrisRecommendations">0</Tweak>
+			</TweakGroup>
+			<TweakGroup name="System">
+				<Tweak name="System\HideFastUserSwitching">1</Tweak>
+				<Tweak name="GameConfigStore\GameDVR_FSEBehavior">0</Tweak>
+				<Tweak name="3\1806">0</Tweak>
+				<Tweak name="UserGpuPreferences\DirectXUserGlobalSettings">VRROptimizeEnable=0</Tweak>
+				<Tweak name="System\VerboseStatus">1</Tweak>
+				<Tweak name="DeviceGuard\EnableVirtualizationBasedSecurity">0</Tweak>
+			</TweakGroup>
+			<TweakGroup name="WindowsUpdateTasks">
+				<Tweak name="EdgeUpdate\EdgeUpdate">0</Tweak>
+				<Tweak name="LXP\LXP">0</Tweak>
+				<Tweak name="OutlookUpdate\OutlookUpdate">0</Tweak>
+				<Tweak name="TFLUpdate\TFLUpdate">0</Tweak>
+			</TweakGroup>
+			<TweakGroup name="UAC">
+				<Tweak name="System\FilterAdministratorToken">1</Tweak>
+				<Tweak name="PointAndPrint\RestrictDriverInstallationToAdministrators">1</Tweak>
+				<Tweak name="System\ConsentPromptBehaviorUser">0</Tweak>
+			</TweakGroup>
+			<TweakGroup name="WindowsUpdate">
+				<Tweak name="DriverSearching\SearchOrderConfig">1</Tweak>
+				<Tweak name="Preferences\ModelDownloadAllowed">0</Tweak>
+				<Tweak name="Settings\AllowAutoWindowsUpdateDownloadOverMeteredNetwork">0</Tweak>
+				<Tweak name="Settings\IsContinuousInnovationOptedIn">0</Tweak>
+				<Tweak name="WindowsUpdate\ExcludeWUDriversInQualityUpdate">1</Tweak>
+				<Tweak name="MRT\DontOfferThroughWUAU">1</Tweak>
+				<Tweak name="Settings\HideMCTLink">1</Tweak>
+				<Tweak name="Settings\AllowMUUpdateService">1</Tweak>
+				<Tweak name="Settings\IsExpedited">0</Tweak>
+				<Tweak name="Settings\RestartNotificationsAllowed2">0</Tweak>
+				<Tweak name="WindowsStore\AutoDownload">4</Tweak>
+				<Tweak name="AU\NoAutoUpdate">1</Tweak>
+				<Tweak name="AU\AUOptions">2</Tweak>
+			</TweakGroup>
+		</Settings>
+		<Services>
+			<TweakGroup name="services">
+				<Tweak name="gpsvc\gpsvc">4</Tweak>
+			</TweakGroup>
+		</Services>
+	</Tweaks>
+	<ApplyOptions>
+		<ImageTasks>
+			<Task>imageSaveTrim</Task>
+			<Task>imageFormatWim</Task>
+		</ImageTasks>
+		<Commands>
+			<PostApply>
+				<!--<Command>cmd /C echo Example from "[MOUNTDIR]\Windows" &amp; pause</Command>-->
+				<!--<Command>cmd /C dism /image:"[MOUNTDIR]" /get-intl</Command>-->
+				<!--<Command>C:\PathToScript\test.cmd</Command>-->
+			</PostApply>
+		</Commands>
+	</ApplyOptions>
+</Preset>

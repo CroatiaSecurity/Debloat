@@ -2,8 +2,8 @@
 <!--File generated with a WinReducer Software created by Winterstorm2050 from www.winreducer.net-->
 <Packages>
   <WinReducerEX>110</WinReducerEX>
-  <Version>v3.9.9.0</Version>
-  <Date>06-05-2026 01:09:10</Date>
+  <Version>v3.9.11.0</Version>
+  <Date>Sun 31 May 2026 6:19:24 PM</Date>
   <Components>
     <Element Category="Appearance" Name="Activate Desktop Context Menu" Selected="false" Value="" />
     <Element Category="Appearance" Name="Safe Mode" Selected="false" Value="" />
@@ -14,12 +14,12 @@
     <Element Category="Appearance" Name="Shutdown (Hybrid)" Selected="false" Value="" />
     <Element Category="Appearance" Name="Activate Theme Support" Selected="true" Value="" />
     <Element Category="Appearance" Name="WinReducer Theme Pack" Selected="false" Value="" />
-    <Element Category="Appearance" Name="Background - Setup Screen" Selected="true" Value="D:\Media\wall.bmp" />
+    <Element Category="Appearance" Name="Background - Setup Screen" Selected="false" Value="" />
     <Element Category="Appearance" Name="Background - Setup Screen Window" Selected="false" Value="" />
     <Element Category="Appearance" Name="Background - Lockscreen" Selected="false" Value="" />
     <Element Category="Appearance" Name="Background - Logo (System CPL)" Selected="false" Value="" />
     <Element Category="Appearance" Name="Background - Picture Password" Selected="false" Value="" />
-    <Element Category="Appearance" Name="Background - Desktop Wallpaper" Selected="true" Value="D:\Media\wall.jpg" />
+    <Element Category="Appearance" Name="Background - Desktop Wallpaper" Selected="false" Value="" />
     <Element Category="Appearance" Name="Cursor - Arrow" Selected="false" Value="" />
     <Element Category="Appearance" Name="Cursor - Busy" Selected="false" Value="" />
     <Element Category="Appearance" Name="Cursor - Cross" Selected="false" Value="" />
@@ -161,7 +161,7 @@
     <Element Category="Remove - Accessories" Name="Diagnostics (Video)" Selected="true" />
     <Element Category="Remove - Accessories" Name="Diagnostics (Windows Media Player)" Selected="true" />
     <Element Category="Remove - Accessories" Name="Diagnostics (Windows Update)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Disk Image Burning Tool" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Disk Image Burning Tool" Selected="true" />
     <Element Category="Remove - Accessories" Name="Disk Quota" Selected="false" />
     <Element Category="Remove - Accessories" Name="Disk Cleaner (Drivers)" Selected="false" />
     <Element Category="Remove - Accessories" Name="Disk Cleaner (Free Space)" Selected="false" />
@@ -216,8 +216,8 @@
     <Element Category="Remove - Accessories" Name="Welcome Center" Selected="true" />
     <Element Category="Remove - Accessories" Name="Windows Contacts" Selected="true" />
     <Element Category="Remove - Accessories" Name="Windows Easy Transfer" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Windows Features" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Windows Features On Demand User Experience (FONDUE)" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Windows Features" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Windows Features On Demand User Experience (FONDUE)" Selected="false" />
     <Element Category="Remove - Accessories" Name="Windows Mail" Selected="false" />
     <Element Category="Remove - Accessories" Name="Windows Mail (Send to Desktop shortcut)" Selected="true" />
     <Element Category="Remove - Accessories" Name="Windows Mail (Send to Mail shortcut)" Selected="true" />
@@ -331,7 +331,7 @@
     <Element Category="Remove - Drivers" Name="Game - Gameport" Selected="false" />
     <Element Category="Remove - Drivers" Name="Game - Xbox360 Controller" Selected="false" />
     <Element Category="Remove - Drivers" Name="Game - Xbox One Controller" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Hyper-V - Controller" Selected="false" />
+    <Element Category="Remove - Drivers" Name="Hyper-V - Controller" Selected="true" />
     <Element Category="Remove - Drivers" Name="Hyper-V - Crash Dump" Selected="true" />
     <Element Category="Remove - Drivers" Name="Hyper-V - Data Exchange" Selected="true" />
     <Element Category="Remove - Drivers" Name="Hyper-V - Dynamic Memory" Selected="true" />
@@ -544,7 +544,7 @@
     <Element Category="Remove - Fonts" Name="Small Fonts" Selected="false" />
     <Element Category="Remove - Fonts" Name="Sylfaen" Selected="false" />
     <Element Category="Remove - Fonts" Name="Symbol" Selected="false" />
-    <Element Category="Remove - Fonts" Name="Tahoma" Selected="false" />
+    <Element Category="EXPERIMENTAL - Remove - Fonts" Name="Tahoma" Selected="false" />
     <Element Category="Remove - Fonts" Name="Times New Roman" Selected="false" />
     <Element Category="Remove - Fonts" Name="Trebuchet MS" Selected="false" />
     <Element Category="Remove - Fonts" Name="Vector (Modern, Roman and Script)" Selected="false" />
@@ -880,7 +880,7 @@
     <Element Category="Remove - Multimedia" Name="Game Bar" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Game Bar (DVR)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Game Chat" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Game Mode" Selected="false" />
+    <Element Category="EXPERIMENTAL - Remove - Multimedia" Name="Game Mode" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Games Explorer" Selected="true" />
     <Element Category="Remove - Multimedia" Name="Gracenote (GNSDK)" Selected="true" />
     <Element Category="Remove - Multimedia" Name="HDCP Monitor Support" Selected="false" />
@@ -1182,12 +1182,18 @@
     <Element Category="Settings" Name="Update and Security - Troubleshoot" Selected="true" />
     <Element Category="Settings" Name="Update and Security - Windows Defender" Selected="true" />
     <Element Category="Settings" Name="Update and Security - Windows Insider Program" Selected="true" />
-    <Element Category="Settings" Name="Update and Security - Windows Update" Selected="true" />
-    <Element Category="Settings" Name="Update and Security - Windows Update - Check for updates" Selected="true" />
-    <Element Category="Settings" Name="Update and Security - Windows Update - Update history" Selected="true" />
-    <Element Category="Settings" Name="Update and Security - Windows Update - Restart options" Selected="true" />
-    <Element Category="Settings" Name="Update and Security - Windows Update - Advanced options" Selected="true" />
-    <Element Category="Settings" Name="Update and Security - Windows Update - Advanced options - Delivery Optimization" Selected="true" />
+    <Element Category="Settings" Name="Update and Security - Windows Update" Selected="false" />
+    <Element Category="Settings" Name="Update and Security - Windows Update - Check for updates" Selected="false" />
+    <Element Category="Settings" Name="Update and Security - Windows Update - Update history" Selected="false" />
+    <Element Category="Settings" Name="Update and Security - Windows Update - Restart options" Selected="false" />
+    <Element Category="Settings" Name="Update and Security - Windows Update - Advanced options" Selected="false" />
+    <Element Category="Settings" Name="Update and Security - Windows Update - Advanced options - Delivery Optimization" Selected="false" />
+    <Element Category="Tweaks" Name="Artificial Intelligence - Google Chrome - Disable Automatic Download For AI Models" Selected="false" />
+    <Element Category="Tweaks" Name="Artificial Intelligence - Microsoft Edge - Disable Automatic Download For AI Models" Selected="false" />
+    <Element Category="Tweaks" Name="Artificial Intelligence - Microsoft Recall - Disable Feature Enablement" Selected="false" />
+    <Element Category="Tweaks" Name="Setup - Bypass Installation Restrictions" Selected="false" />
+    <Element Category="Tweaks" Name="Setup - Enable OOBE Local Account" Selected="false" />
+    <Element Category="EXPERIMENTAL - Tweaks" Name="Setup - Enable New Installation Procedure" Selected="false" />
     <Element Category="Tweaks" Name="Classic GUI - Enable Classic Action Center UI" Selected="false" />
     <Element Category="Tweaks" Name="Classic GUI - Enable Classic Battery Fly-out UI" Selected="false" />
     <Element Category="Tweaks" Name="Classic GUI - Enable Classic Calendar UI" Selected="false" />
@@ -1213,8 +1219,12 @@
     <Element Category="Tweaks" Name="Desktop - Add Network Shortcut" Selected="false" />
     <Element Category="Tweaks" Name="Desktop - Add User Documents Shortcut" Selected="false" />
     <Element Category="Tweaks" Name="Desktop - Add Windows Build Number" Selected="false" />
+    <Element Category="Tweaks" Name="Desktop - Disable Drop Tray" Selected="false" />
     <Element Category="Tweaks" Name="Desktop - Disable Get Tips, Tricks and Suggestions" Selected="true" />
     <Element Category="Tweaks" Name="Desktop - Disable JPEG Wallpaper Import Quality Reduction" Selected="true" />
+    <Element Category="Tweaks" Name="Desktop - Disable Snap Assist" Selected="false" />
+    <Element Category="Tweaks" Name="Desktop - Disable Snap Bar" Selected="false" />
+    <Element Category="Tweaks" Name="Desktop - Disable Snap" Selected="false" />
     <Element Category="Tweaks" Name="Desktop - Hide Icons" Selected="false" />
     <Element Category="Tweaks" Name="Desktop - Hide Popup Help Tips" Selected="true" />
     <Element Category="Tweaks" Name="Desktop - Remove Recycle Bin Icon" Selected="true" />
@@ -1406,11 +1416,11 @@
     <Element Category="Tweaks" Name="System - Disable Windows Resource Protection" Selected="true" />
     <Element Category="Tweaks" Name="System - Enable Keyboard NumPad on Startup" Selected="true" />
     <Element Category="Tweaks" Name="System - Enable Large System Cache" Selected="true" />
+    <Element Category="Tweaks" Name="System - Enable Login and Logout verbose mode" Selected="false" />
     <Element Category="Tweaks" Name="System - Improve Disk Check Timeout (5 sec)" Selected="true" />
     <Element Category="Tweaks" Name="System - Improve Shutdown Speed" Selected="true" />
     <Element Category="Tweaks" Name="System - Improve Windows Shell Response" Selected="true" />
     <Element Category="Tweaks" Name="System - Reduce Launch Delay For Desktop Startup Apps" Selected="true" />
-    <Element Category="Tweaks" Name="System - OOBE - Disable Internet Connection Requirement" Selected="true" />
     <Element Category="Tweaks" Name="Taskbar - Disable Multiview Icon" Selected="true" />
     <Element Category="Tweaks" Name="Taskbar - Disable Notification Center" Selected="false" />
     <Element Category="Tweaks" Name="Taskbar - Disable Notifications" Selected="true" />
@@ -1445,8 +1455,8 @@
     <Element Category="Optimizations" Name="EXPERT - Deep Cleanup" Selected="true" />
     <Element Category="Optimizations" Name="EXPERT - Net Framework Complete Cleanup" Selected="false" Value="" Other="" />
     <Element Category="Optimizations" Name="EXPERT - Net Framework Light Cleanup" Selected="false" />
-    <Element Category="Optimizations" Name="EXPERT - Windows Updates Files Cleanup (Complete)" Selected="true" Value="" />
-    <Element Category="Optimizations" Name="EXPERT - Windows Updates Files Cleanup (Light)" Selected="true" Value="" />
+    <Element Category="Optimizations" Name="EXPERT - Windows Updates Files Cleanup (Complete)" Selected="false" Value="" />
+    <Element Category="Optimizations" Name="EXPERT - Windows Updates Files Cleanup (Light)" Selected="false" Value="" />
     <Element Category="Optimizations" Name="EXPERT - WinSXS Folder Cleanup (boot.wim)" Selected="true" />
     <Element Category="Optimizations" Name="EXPERT - WinSXS Folder Cleanup (install.wim)" Selected="false" />
     <Element Category="Optimizations" Name="EXPERT - WinSXS Folder Compression" Selected="true" Value="LZX" />
@@ -1678,14 +1688,14 @@
     <Element Category="Presets" Name="Protect MS Online Account" Selected="true" />
     <Element Category="Presets" Name="Protect MS Office" Selected="true" />
     <Element Category="Presets" Name="Protect Sysprep" Selected="true" />
-    <Element Category="Presets" Name="Protect VirtualBox" Selected="false" />
-    <Element Category="Presets" Name="Protect VMware Player and Workstation" Selected="false" />
+    <Element Category="Presets" Name="Protect VirtualBox" Selected="true" />
+    <Element Category="Presets" Name="Protect VMware Player and Workstation" Selected="true" />
     <Element Category="Presets" Name="Protect Windows Activation GUI" Selected="true" />
-    <Element Category="Presets" Name="Protect Windows Features" Selected="false" />
+    <Element Category="Presets" Name="Protect Windows Features" Selected="true" />
     <Element Category="Presets" Name="Protect Windows Media Center" Selected="true" />
     <Element Category="Presets" Name="Protect Windows Media Player" Selected="true" />
     <Element Category="Presets" Name="Protect Windows Search" Selected="true" />
-    <Element Category="Presets" Name="Protect Windows Update" Selected="false" />
+    <Element Category="Presets" Name="Protect Windows Update" Selected="true" />
     <Element Category="WinReducer Options" Name="Detailed LOG file" Selected="false" />
     <Element Category="WinReducer Options" Name="Removing Speed" Selected="true" Value="3" />
     <Element Category="WinReducer Options" Name="ISO File Creator (Save in a WIM File)" Selected="true" Folder="C:\New folder" SplitSize="40000" UEFIBoot="UEFI &amp; BIOS" FolderTransfert="" />

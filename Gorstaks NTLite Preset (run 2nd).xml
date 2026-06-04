@@ -386,7 +386,7 @@
 			<Feature enabled="no">ServicingStack</Feature>
 			<Feature enabled="yes">ShellSearchSupport</Feature>
 			<Feature enabled="yes">Spotify</Feature>
-			<Feature enabled="yes">SFC</Feature>
+			<Feature enabled="no">SFC</Feature>
 			<Feature enabled="yes">DefaultFonts</Feature>
 			<Feature enabled="no">SafeMode</Feature>
 			<Feature enabled="yes">TeamViewer</Feature>

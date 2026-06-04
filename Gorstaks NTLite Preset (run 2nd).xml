@@ -1,27 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Preset isAutoSaved="false" xmlns="urn:schemas-nliteos-com:pn.v1">
-	<Date>05/27/2026 00:20:00</Date>
+	<Date>06/05/2026 00:07:15</Date>
 	<Version>1.1</Version>
 	<AppInfo>
-		<Version>2026.5.11014</Version>
+		<Version>2026.5.11090</Version>
 		<Licensed>Yes</Licensed>
 		<Protections>Yes</Protections>
-		<Host>Windows 11 Professional 25H2 x64 - 10.0.26200.8457 (en-US)</Host>
+		<Host>Windows 11 IoTEnterpriseS 24H2 x64 - 10.0.26100.1 (en-US)</Host>
 	</AppInfo>
 	<ImageInfo>
 		<Version mode="offline">Windows 11 Professional 26H1 x64 - 10.0.28000.1 (en-US)</Version>
-		<GUID>{0A9CB1AB-6EF7-4D41-B197-C7FFD33F852D}</GUID>
+		<GUID>{F7D85F11-24AC-4811-BD92-8A7E4598DFE6}</GUID>
 	</ImageInfo>
 	<RemoveComponents AppRemovalMode="DISM">
+		<c>assembly.net '.NET assembly cache'</c>
+		<c>clip 'Client License Platform'</c>
+		<c>la57 '57-bit Linear Addressing'</c>
+		<c>lcu 'Cumulative Update cache (LCU)'</c>
+		<c>mapcontrol 'Map Control'</c>
+		<c>migwiz 'Easy Transfer'</c>
+		<c>retaildemo 'Retail Demo Content'</c>
+		<c>sstackwow64 'Servicing stack - 32 bit'</c>
+		<c>tempcache 'Cache and temp files'</c>
+		<c>clip 'Client License Platform'</c>
+		<c>lcu 'Cumulative Update cache (LCU)'</c>
+		<c>winsxs 'Windows Component Store (WinSxS)'</c>
 		<c>3daudio 'Spatial Sound (3D Audio)'</c>
 		<c>accounthealth 'Account Health'</c>
-		<c>activedirectory 'Active Directory'</c>
 		<c>adamclient 'Active Directory Lightweight Directory Services (AD LDS)'</c>
 		<c>apxunit 'APX speaker and microphone driver'</c>
 		<c>asimov 'Telemetry Client'</c>
 		<c>assignedaccess 'Assigned Access'</c>
 		<c>audit 'Windows Auditing'</c>
 		<c>axinstall 'ActiveX Installer Service'</c>
+		<c>azuread 'Azure Active Directory'</c>
 		<c>backgroundmediaplayer32 'Background Media Player - 32 bit'</c>
 		<c>bingsearch 'Bing Search (InboxApp)'</c>
 		<c>branchcacheclient 'BranchCache Client'</c>
@@ -54,7 +66,6 @@
 		<c>driver_wvmic_ext.inf</c>
 		<c>driver_wvmic_guestinterface.inf</c>
 		<c>driver_wvmic_vss.inf</c>
-		<c>driver_xinputhid.inf</c>
 		<c>dvdplay 'DVD Play'</c>
 		<c>dynamiclighting 'Dynamic Lighting'</c>
 		<c>entappsvc 'Enterprise App Management Service'</c>
@@ -138,15 +149,15 @@
 		<c>hwsupport_telephony 'Telephony'</c>
 		<c>hwsupport_tv 'TV Tuner codecs and support'</c>
 		<c>icu32 'International Unicode Components - 32 bit'</c>
-		<c>iis 'Internet Information Server (IIS)'</c>
-		<c>ikeext 'IKE and AuthIP IPsec Keying Modules'</c>
 		<c>inputswitchtoasthandler 'Input Switch Toast Handler'</c>
 		<c>insiderhub 'Windows Insider Program'</c>
 		<c>ipxlatcfg 'IP Translation Configuration Service'</c>
+		<c>isoburn 'Windows Disc Image Burning Tool'</c>
 		<c>kerberos32 'Kerberos Client - 32 bit'</c>
 		<c>langafrikaans 'Afrikaans'</c>
 		<c>langalbanian 'Albanian'</c>
 		<c>langamharic 'Amharic'</c>
+		<c>langarabic 'Arabic'</c>
 		<c>langarmenian 'Armenian'</c>
 		<c>langassamese 'Assamese'</c>
 		<c>langazerbaijani 'Azerbaijani'</c>
@@ -154,21 +165,39 @@
 		<c>langbelarusian 'Belarusian'</c>
 		<c>langbengali_india 'Bengali (India)'</c>
 		<c>langbosnian 'Bosnian'</c>
+		<c>langbulgarian 'Bulgarian'</c>
 		<c>langcatalan 'Catalan'</c>
 		<c>langcherokee 'Cherokee'</c>
+		<c>langchineses 'Chinese Simplified'</c>
+		<c>langcroatian 'Croatian'</c>
+		<c>langczech 'Czech'</c>
+		<c>langdanish 'Danish'</c>
+		<c>langdutch 'Dutch'</c>
+		<c>langenglishgb 'English (GB)'</c>
+		<c>langestonian 'Estonian'</c>
 		<c>langfilipino 'Filipino'</c>
+		<c>langfinnish 'Finnish'</c>
+		<c>langfrench 'French'</c>
+		<c>langfrenchcanadian 'French (Canadian)'</c>
 		<c>langgalician 'Galician'</c>
 		<c>langgeorgian 'Georgian'</c>
+		<c>langgerman 'German'</c>
+		<c>langgreek 'Greek'</c>
 		<c>langgujarati 'Gujarati'</c>
+		<c>langhebrew 'Hebrew'</c>
 		<c>langhindi 'Hindi'</c>
+		<c>langhungarian 'Hungarian'</c>
 		<c>langicelandic 'Icelandic'</c>
 		<c>langindonesian 'Indonesian'</c>
 		<c>langirish 'Irish'</c>
+		<c>langitalian 'Italian'</c>
 		<c>langkannada 'Kannada'</c>
 		<c>langkazakh 'Kazakh'</c>
 		<c>langkhmer 'Khmer'</c>
 		<c>langkonkani 'Konkani'</c>
 		<c>langlao 'Lao'</c>
+		<c>langlatvian 'Latvian'</c>
+		<c>langlithuanian 'Lithuanian'</c>
 		<c>langluxembourgish 'Luxembourgish'</c>
 		<c>langmacedonian 'Macedonian'</c>
 		<c>langmalay_malaysia 'Malay (Malaysia)'</c>
@@ -177,14 +206,28 @@
 		<c>langmaori 'Maori'</c>
 		<c>langmarathi 'Marathi'</c>
 		<c>langnepali 'Nepali'</c>
+		<c>langnorwegian 'Norwegian'</c>
 		<c>langodia 'Odia'</c>
 		<c>langpersian 'Persian'</c>
+		<c>langpolish 'Polish'</c>
+		<c>langportuguesebr 'Portuguese (Brazilian)'</c>
+		<c>langportuguesept 'Portuguese'</c>
 		<c>langpunjabi 'Punjabi'</c>
 		<c>langquechua 'Quechua'</c>
+		<c>langromanian 'Romanian'</c>
+		<c>langrussian 'Russian'</c>
 		<c>langscottish 'Scottish'</c>
+		<c>langserbian 'Serbian'</c>
+		<c>langslovak 'Slovak'</c>
+		<c>langslovenian 'Slovenian'</c>
+		<c>langspanish 'Spanish'</c>
+		<c>langswedish 'Swedish'</c>
 		<c>langtamil 'Tamil'</c>
 		<c>langtatar 'Tatar'</c>
 		<c>langtelugu 'Telugu'</c>
+		<c>langthai 'Thai'</c>
+		<c>langturkish 'Turkish'</c>
+		<c>langukrainian 'Ukrainian'</c>
 		<c>langurdu 'Urdu'</c>
 		<c>languyghur 'Uyghur'</c>
 		<c>languzbek 'Uzbek'</c>
@@ -194,10 +237,10 @@
 		<c>laps 'Windows Local Administrator Password Solution(LAPS)'</c>
 		<c>lcu 'Cumulative Update cache (LCU)'</c>
 		<c>location 'Location Service'</c>
+		<c>lockscreens 'Lock Screen backgrounds'</c>
 		<c>lpasvc 'Local Profile Assistant Service'</c>
 		<c>mail 'Windows Mail'</c>
 		<c>mailcommdll 'Windows Mail Communications Library'</c>
-		<c>manifestbackup 'Manifest Backup (WinSxS\Backup)'</c>
 		<c>mcmsvc 'Mobile Connectivity Management'</c>
 		<c>mediacodec 'Windows Media Codecs'</c>
 		<c>mediacodec32 'Windows Media Codecs - 32 bit'</c>
@@ -245,6 +288,7 @@
 		<c>photoviewer32 'Photo Viewer - 32 bit'</c>
 		<c>pimindexmaintenancesvc 'Contact Data'</c>
 		<c>pktmon 'Packet Monitor (PktMon)'</c>
+		<c>pos 'Point of Service (POS)'</c>
 		<c>print3d32 'Print 3D - 32 bit'</c>
 		<c>printworkflow 'Print Workflow Service'</c>
 		<c>proximity 'Proximity - Wi-Fi Direct'</c>
@@ -254,8 +298,10 @@
 		<c>rdmaping 'Remote Direct Memory Access (RDMA) ping tool'</c>
 		<c>rdpclient32 'Remote Desktop Client - 32 bit'</c>
 		<c>remoteactivex32 'Remote Desktop Services ActiveX Client - 32 bit'</c>
+		<c>remoteassistance 'Remote Assistance'</c>
 		<c>rightsmanagement 'Rights Management support'</c>
 		<c>ruxim 'Reusable UX Interaction Manager (RUXIM)'</c>
+		<c>screensavers</c>
 		<c>sharedpc 'Shared PC mode'</c>
 		<c>sharemediacpl 'Share Media Control Panel'</c>
 		<c>sihclient 'Server-Initiated Healing Client'</c>
@@ -266,9 +312,13 @@
 		<c>smbwitnessclientapi 'SMB Witness Client API'</c>
 		<c>sndvol 'Volume mixer (Legacy)'</c>
 		<c>sndvol32 'Volume mixer (Legacy) - 32 bit'</c>
+		<c>soundsdefault 'Sounds (Default)'</c>
+		<c>soundthemes 'Sound Themes'</c>
 		<c>soundwire</c>
+		<c>speechapi 'Speech API'</c>
+		<c>speechcommon 'Speech Recognition'</c>
+		<c>speechtts 'Speech TTS'</c>
 		<c>srumon 'Data Usage service'</c>
-		<c>sstackwow64 'Servicing stack - 32 bit'</c>
 		<c>staticfontcache 'Static Font Cache'</c>
 		<c>sustainabilityservice 'Sustainability Service'</c>
 		<c>synccenter 'Sync Center'</c>
@@ -283,7 +333,6 @@
 		<c>unexpectedcodepath 'Unexpected Codepath'</c>
 		<c>universalprintsvc 'Universal Print Management Service'</c>
 		<c>userdatasvc 'User Data Access'</c>
-		<c>userdeviceregistration 'User Device Registration'</c>
 		<c>voiceaccess 'Voice Access'</c>
 		<c>waasassessment 'Windows Update Medic Service'</c>
 		<c>wallet 'Wallet Service'</c>
@@ -301,7 +350,7 @@
 		<c>wini3c 'Improved Inter-Integrated Circuit (I3C)'</c>
 		<c>winocr 'Windows TIFF IFilter (OCR)'</c>
 		<c>winrm 'Windows Remote Management (WS-Management)'</c>
-		<c>winsxs 'Windows Component Store (WinSxS)'</c>
+		<c>winsat 'Windows System Assessment Tool (WinSAT)'</c>
 		<c>wpdbusenum 'Portable Device Enumerator Service'</c>
 		<c>wuqisvc 'Microsoft Usage and Quality Insights'</c>
 		<c>ztdns 'Zero Trust DNS'</c>
@@ -315,7 +364,6 @@
 			<Feature enabled="yes">USBCamera</Feature>
 			<Feature enabled="yes">CapFrameX</Feature>
 			<Feature enabled="yes">Discord</Feature>
-			<Feature enabled="yes">Docker</Feature>
 			<Feature enabled="yes">EAC</Feature>
 			<Feature enabled="yes">FileSharing</Feature>
 			<Feature enabled="yes">iCloud</Feature>
@@ -338,7 +386,7 @@
 			<Feature enabled="no">ServicingStack</Feature>
 			<Feature enabled="yes">ShellSearchSupport</Feature>
 			<Feature enabled="yes">Spotify</Feature>
-			<Feature enabled="no">SFC</Feature>
+			<Feature enabled="yes">SFC</Feature>
 			<Feature enabled="yes">DefaultFonts</Feature>
 			<Feature enabled="no">SafeMode</Feature>
 			<Feature enabled="yes">TeamViewer</Feature>
@@ -365,9 +413,11 @@
 		</MachineDrivers>
 	</Compatibility>
 	<Features>
+		<Feature name="Windows.DirectoryServices.ADAM.Client.Content~~~~">false</Feature>
 		<Feature name="Microsoft.Windows.Wifi.Client.Broadcom.Bcmpciedhd63~~~~0.0.1.0">false</Feature>
 		<Feature name="Microsoft.Windows.Wifi.Client.Broadcom.Bcmwl63a~~~~0.0.1.0">false</Feature>
 		<Feature name="Microsoft.Windows.Wifi.Client.Broadcom.Bcmwl63al~~~~0.0.1.0">false</Feature>
+		<Feature name="DirectPlay">true</Feature>
 		<Feature name="Language.Handwriting~~~en-us~0.0.1.0">false</Feature>
 		<Feature name="Language.OCR~~~en-us~0.0.1.0">false</Feature>
 		<Feature name="Microsoft.Windows.Ethernet.Client.Intel.E1i68x64~~~~0.0.1.0">false</Feature>
@@ -383,6 +433,7 @@
 		<Feature name="Microsoft.Windows.Wifi.Client.Intel.Netwtw06~~~~0.0.1.0">false</Feature>
 		<Feature name="Microsoft.Windows.Wifi.Client.Intel.Netwtw08~~~~0.0.1.0">false</Feature>
 		<Feature name="Microsoft.Windows.Wifi.Client.Intel.Netwtw10~~~~0.0.1.0">false</Feature>
+		<Feature name="LegacyComponents">true</Feature>
 		<Feature name="Microsoft.Windows.Wifi.Client.Marvel.Mrvlpcie8897~~~~0.0.1.0">false</Feature>
 		<Feature name="Edge.Webview2.Platform~~~~">false</Feature>
 		<Feature name="Microsoft.Windows.Wifi.Client.Qualcomm.Athw8x~~~~0.0.1.0">false</Feature>
@@ -394,16 +445,14 @@
 		<Feature name="Microsoft.Windows.Wifi.Client.Realtek.Rtwlane~~~~0.0.1.0">false</Feature>
 		<Feature name="Microsoft.Windows.Wifi.Client.Realtek.Rtwlane01~~~~0.0.1.0">false</Feature>
 		<Feature name="Microsoft.Windows.Wifi.Client.Realtek.Rtwlane13~~~~0.0.1.0">false</Feature>
-		<Feature name="Microsoft.Windows.Ethernet.Client.Vmware.Vmxnet3~~~~0.0.1.0">false</Feature>
+		<Feature name="App.StepsRecorder~~~~0.0.1.0">false</Feature>
 		<Feature name="Media.WindowsMediaPlayer~~~~0.0.12.0">false</Feature>
 	</Features>
 	<Packages>
 		<Options>
 			<CleanHotfixedLeftovers>3</CleanHotfixedLeftovers>
 		</Options>
-		<File>D:\NTLite\Cache\Updates\11.26H1.x64\windows11.0-kb5089548-x64_313f1b62787096e442a8aac96dbf3d042fa04313_public.msu</File>
 		<File>D:\NTLite\Cache\Updates\11.26H1.x64\microsoft-windows-netfx3-ondemand-package~31bf3856ad364e35~amd64~~.cab</File>
-		<File>D:\NTLite\Cache\Updates\11.26H1.x64\windows11.0-kb5087055-x64-ndp481_0db89ca5e3510f18637460affc0b6ae8543991ff_public.msu</File>
 		<File>D:\NTLite\Cache\Updates\11.26H1.x64\Microsoft.UI.Xaml.2.8_8.2501.31001.0_x64.appx</File>
 		<File>D:\NTLite\Cache\Updates\11.26H1.x64\Microsoft.VCLibs.140.00.UWPDesktop_14.0.33728.0_x64.appx</File>
 		<File>D:\NTLite\Cache\Updates\11.26H1.x64\Microsoft.VCLibs.140.00_14.0.33519.0_x64.appx</File>
@@ -420,76 +469,44 @@
 	<Tweaks>
 		<Settings>
 			<TweakGroup name="DesktopTweaks">
-				<Tweak name="InprocServer32\"></Tweak>
-				<Tweak name="Personalize\AppsUseLightTheme">1</Tweak>
-				<Tweak name="Personalize\SystemUsesLightTheme">1</Tweak>
-				<Tweak name="Personalize\ColorPrevalence">1</Tweak>
-				<Tweak name="DWM\ColorPrevalence">0</Tweak>
 				<Tweak name="Communications\ConfigureChatAutoInstall">0</Tweak>
 			</TweakGroup>
 			<TweakGroup name="Explorer">
+				<Tweak name=".jpg\PhotoViewer.FileAssoc.Tiff">PhotoViewer.FileAssoc.Tiff</Tweak>
 				<Tweak name="Advanced\HideDrivesWithNoMedia">1</Tweak>
-			</TweakGroup>
-			<TweakGroup name="PowerAndShutdown">
-				<Tweak name="Power\HiberbootEnabled">0</Tweak>
+				<Tweak name="Advanced\HideFileExt">0</Tweak>
+				<Tweak name="Advanced\Hidden">1</Tweak>
+				<Tweak name="Advanced\ShowSuperHidden">0</Tweak>
 			</TweakGroup>
 			<TweakGroup name="Privacy">
-				<Tweak name="Client\OptInOrOutPreference">0</Tweak>
-				<Tweak name="System\AllowExperimentation">0</Tweak>
-				<Tweak name="System\AllowLocation">0</Tweak>
-				<Tweak name="DataCollection\AllowTelemetry">0</Tweak>
-				<Tweak name="1.7\EnableAutocorrection">0</Tweak>
+				<Tweak name="CloudContent\DisableWindowsConsumerFeatures">1</Tweak>
 				<Tweak name="ContentDeliveryManager\SilentInstalledAppsEnabled">0</Tweak>
-				<Tweak name="InputPersonalization\AllowInputPersonalization">0</Tweak>
-			</TweakGroup>
-			<TweakGroup name="StartTweaks">
-				<Tweak name="Explorer\HideRecentlyAddedApps">1</Tweak>
-				<Tweak name="Explorer\ShowOrHideMostUsedApps">0</Tweak>
-				<Tweak name="Advanced\Start_IrisRecommendations">0</Tweak>
+				<Tweak name="SmartGlass\UserAuthPolicy">0</Tweak>
+				<Tweak name="Search\BingSearchEnabled">0</Tweak>
 			</TweakGroup>
 			<TweakGroup name="System">
 				<Tweak name="System\HideFastUserSwitching">1</Tweak>
-				<Tweak name="GameConfigStore\GameDVR_FSEBehavior">0</Tweak>
-				<Tweak name="3\1806">0</Tweak>
+				<Tweak name="System\EnableLinkedConnections">1</Tweak>
+				<Tweak name="OOBE\BypassNRO">1</Tweak>
+				<Tweak name="ReserveManager\ShippedWithReserves">0</Tweak>
 				<Tweak name="UserGpuPreferences\DirectXUserGlobalSettings">VRROptimizeEnable=0</Tweak>
-				<Tweak name="System\VerboseStatus">1</Tweak>
-				<Tweak name="DeviceGuard\EnableVirtualizationBasedSecurity">0</Tweak>
 			</TweakGroup>
 			<TweakGroup name="WindowsUpdateTasks">
 				<Tweak name="EdgeUpdate\EdgeUpdate">0</Tweak>
-				<Tweak name="LXP\LXP">0</Tweak>
-				<Tweak name="OutlookUpdate\OutlookUpdate">0</Tweak>
-				<Tweak name="TFLUpdate\TFLUpdate">0</Tweak>
 			</TweakGroup>
 			<TweakGroup name="UAC">
 				<Tweak name="System\FilterAdministratorToken">1</Tweak>
-				<Tweak name="PointAndPrint\RestrictDriverInstallationToAdministrators">1</Tweak>
-				<Tweak name="System\ConsentPromptBehaviorUser">0</Tweak>
 			</TweakGroup>
 			<TweakGroup name="WindowsUpdate">
-				<Tweak name="DriverSearching\SearchOrderConfig">1</Tweak>
 				<Tweak name="Preferences\ModelDownloadAllowed">0</Tweak>
-				<Tweak name="Settings\AllowAutoWindowsUpdateDownloadOverMeteredNetwork">0</Tweak>
-				<Tweak name="Settings\IsContinuousInnovationOptedIn">0</Tweak>
-				<Tweak name="WindowsUpdate\ExcludeWUDriversInQualityUpdate">1</Tweak>
-				<Tweak name="MRT\DontOfferThroughWUAU">1</Tweak>
-				<Tweak name="Settings\HideMCTLink">1</Tweak>
-				<Tweak name="Settings\AllowMUUpdateService">1</Tweak>
-				<Tweak name="Settings\IsExpedited">0</Tweak>
-				<Tweak name="Settings\RestartNotificationsAllowed2">0</Tweak>
 				<Tweak name="WindowsStore\AutoDownload">4</Tweak>
 				<Tweak name="AU\NoAutoUpdate">1</Tweak>
-				<Tweak name="AU\AUOptions">2</Tweak>
 			</TweakGroup>
 		</Settings>
-		<Services>
-			<TweakGroup name="services">
-				<Tweak name="gpsvc\gpsvc">4</Tweak>
-			</TweakGroup>
-		</Services>
 	</Tweaks>
 	<ApplyOptions>
 		<ImageTasks>
+			<Task>imageSaveRebuild</Task>
 			<Task>imageSaveTrim</Task>
 			<Task>imageFormatWim</Task>
 		</ImageTasks>

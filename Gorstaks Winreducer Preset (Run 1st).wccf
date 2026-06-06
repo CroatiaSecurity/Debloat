@@ -3,7 +3,7 @@
 <Packages>
   <WinReducerEX>110</WinReducerEX>
   <Version>v3.9.13.0</Version>
-  <Date>04-06-2026 23:41:21</Date>
+  <Date>06-06-2026 20:42:57</Date>
   <Components>
     <Element Category="Appearance" Name="Activate Desktop Context Menu" Selected="false" Value="" />
     <Element Category="Appearance" Name="Safe Mode" Selected="false" Value="" />
@@ -12,14 +12,14 @@
     <Element Category="Appearance" Name="Restart" Selected="false" Value="" />
     <Element Category="Appearance" Name="Shutdown" Selected="false" Value="" />
     <Element Category="Appearance" Name="Shutdown (Hybrid)" Selected="false" Value="" />
-    <Element Category="Appearance" Name="Activate Theme Support" Selected="false" Value="" />
+    <Element Category="Appearance" Name="Activate Theme Support" Selected="true" Value="" />
     <Element Category="Appearance" Name="WinReducer Theme Pack" Selected="false" Value="" />
-    <Element Category="Appearance" Name="Background - Setup Screen" Selected="false" Value="" />
+    <Element Category="Appearance" Name="Background - Setup Screen" Selected="true" Value="D:\Media\wall.bmp" />
     <Element Category="Appearance" Name="Background - Setup Screen Window" Selected="false" Value="" />
     <Element Category="Appearance" Name="Background - Lockscreen" Selected="false" Value="" />
     <Element Category="Appearance" Name="Background - Logo (System CPL)" Selected="false" Value="" />
     <Element Category="Appearance" Name="Background - Picture Password" Selected="false" Value="" />
-    <Element Category="Appearance" Name="Background - Desktop Wallpaper" Selected="false" Value="" />
+    <Element Category="Appearance" Name="Background - Desktop Wallpaper" Selected="true" Value="D:\Media\wall.jpg" />
     <Element Category="Appearance" Name="Cursor - Arrow" Selected="false" Value="" />
     <Element Category="Appearance" Name="Cursor - Busy" Selected="false" Value="" />
     <Element Category="Appearance" Name="Cursor - Cross" Selected="false" Value="" />
@@ -269,8 +269,8 @@
     <Element Category="Remove - Control Panels" Name="Control Panel - Indexing Options (Files)" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Infrared" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Infrared (Files)" Selected="false" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Internet Options" Selected="true" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Internet Options (Files)" Selected="true" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Internet Options" Selected="false" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Internet Options (Files)" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Keyboard" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Language Settings" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Language Settings (Files)" Selected="false" />
@@ -293,7 +293,7 @@
     <Element Category="Remove - Control Panels" Name="Control Panel - Region and Language" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Region and Language (Files)" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Scanner and Camera" Selected="false" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Secure Startup" Selected="true" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Secure Startup" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Set User Defaults" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Sound" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Sound (Files)" Selected="false" />
@@ -1696,7 +1696,7 @@
     <Element Category="Unattended" Name="Disable TCG Security Activation" Selected="false" />
     <Element Category="Unattended" Name="Prevent Device Encryption" Selected="false" />
     <Element Category="Unattended" Name="Join a Domain" Selected="false" DName="" DUsername="" DPassword="" Debug="false" />
-    <Element Category="Presets" Name="Automatic Removing Process" Selected="true" />
+    <Element Category="Presets" Name="Automatic Removing Process" Selected="false" />
     <Element Category="Presets" Name="Automatic Removing Process (Optimize ISO Size)" Selected="false" />
     <Element Category="Presets" Name="Automatic Removing Process (Expert Optimization)" Selected="false" />
     <Element Category="Presets" Name="Protect Important Files" Selected="true" />

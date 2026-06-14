@@ -1,24 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Preset isAutoSaved="false" xmlns="urn:schemas-nliteos-com:pn.v1">
-	<Date>06/05/2026 00:07:15</Date>
+	<Date>06/14/2026 04:09:55</Date>
 	<Version>1.1</Version>
 	<AppInfo>
 		<Version>2026.5.11090</Version>
 		<Licensed>Yes</Licensed>
 		<Protections>Yes</Protections>
-		<Host>Windows 11 IoTEnterpriseS 24H2 x64 - 10.0.26100.1 (en-US)</Host>
+		<Host>Windows 11 Professional 26H1 x64 - 10.0.28000.1 (en-US)</Host>
 	</AppInfo>
 	<ImageInfo>
 		<Version mode="offline">Windows 11 Professional 26H1 x64 - 10.0.28000.1 (en-US)</Version>
-		<GUID>{F7D85F11-24AC-4811-BD92-8A7E4598DFE6}</GUID>
+		<GUID>{C9CF6334-7524-EE77-87EC-FC756C934015}</GUID>
 	</ImageInfo>
 	<RemoveComponents AppRemovalMode="DISM">
 		<c>assembly.net '.NET assembly cache'</c>
-		<c>migwiz 'Easy Transfer'</c>
-		<c>retaildemo 'Retail Demo Content'</c>
-		<c>sstackwow64 'Servicing stack - 32 bit'</c>
-		<c>tempcache 'Cache and temp files'</c>
-		<c>winsxs 'Windows Component Store (WinSxS)'</c>
+		<c>axinstall 'ActiveX Installer Service'</c>
 		<c>driver_wvmic_guestinterface.inf</c>
 		<c>dvdplay 'DVD Play'</c>
 		<c>font_arialblack 'Arial Black'</c>
@@ -87,6 +83,9 @@
 		<c>hwsupport_internetprintingclient 'Internet Printing Client'</c>
 		<c>hwsupport_telephony 'Telephony'</c>
 		<c>hwsupport_tv 'TV Tuner codecs and support'</c>
+		<c>internetexplorer 'Internet Explorer'</c>
+		<c>internetexplorer32 'Internet Explorer - 32 bit'</c>
+		<c>la57 '57-bit Linear Addressing'</c>
 		<c>langafrikaans 'Afrikaans'</c>
 		<c>langalbanian 'Albanian'</c>
 		<c>langamharic 'Amharic'</c>
@@ -167,16 +166,27 @@
 		<c>langvalencian 'Valencian'</c>
 		<c>langvietnamese 'Vietnamese'</c>
 		<c>langwelsh 'Welsh'</c>
+		<c>lcu 'Cumulative Update cache (LCU)'</c>
+		<c>mapcontrol 'Map Control'</c>
 		<c>microsoft.microsoftedge 'Microsoft Edge (Legacy)'</c>
+		<c>microsoft.windows.parentalcontrols 'Microsoft Family Safety'</c>
+		<c>migwiz 'Easy Transfer'</c>
+		<c>phonesvc 'Phone Service'</c>
 		<c>pos 'Point of Service (POS)'</c>
+		<c>rasauto 'Remote Access Auto Connection Manager'</c>
+		<c>retaildemo 'Retail Demo Content'</c>
 		<c>smbdirect 'SMB Direct (RDMA)'</c>
 		<c>smbv1 'SMB v1'</c>
 		<c>smbwitnessclientapi 'SMB Witness Client API'</c>
 		<c>soundsdefault 'Sounds (Default)'</c>
 		<c>soundthemes 'Sound Themes'</c>
+		<c>sstackwow64 'Servicing stack - 32 bit'</c>
+		<c>tempcache 'Cache and temp files'</c>
+		<c>waasassessment 'Windows Update Medic Service'</c>
 		<c>webthreatdefense 'Web Threat Defense Service'</c>
 		<c>windowsupdate 'Windows Update'</c>
 		<c>winsat 'Windows System Assessment Tool (WinSAT)'</c>
+		<c>winsxs 'Windows Component Store (WinSxS)'</c>
 	</RemoveComponents>
 	<Compatibility>
 		<ComponentFeatures>
@@ -187,8 +197,10 @@
 			<Feature enabled="yes">USBCamera</Feature>
 			<Feature enabled="yes">CapFrameX</Feature>
 			<Feature enabled="yes">Discord</Feature>
+			<Feature enabled="no">Docker</Feature>
 			<Feature enabled="yes">EAC</Feature>
 			<Feature enabled="yes">FileSharing</Feature>
+			<Feature enabled="no">Hyper-V</Feature>
 			<Feature enabled="yes">iCloud</Feature>
 			<Feature enabled="yes">Kaspersky</Feature>
 			<Feature enabled="yes">LegacyGames</Feature>
@@ -281,6 +293,7 @@
 		<File>D:\NTLite\Cache\Updates\11.26H1.x64\Microsoft.VCLibs.140.00_14.0.33519.0_x64.appx</File>
 		<File>D:\NTLite\Cache\Updates\11.26H1.x64\Microsoft.WindowsAppRuntime.1.8_win10-x64.msix</File>
 		<File>D:\NTLite\Cache\Updates\11.26H1.x64\Microsoft.WindowsAppRuntime.2_win10-x64.msix</File>
+		<File>D:\NTLite\Cache\Updates\11.26H1.x64\PowerShell-7.6.2_v7.6.2.msixbundle</File>
 		<File>D:\NTLite\Cache\Updates\11.26H1.x64\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe_v1.28.240.msixbundle</File>
 	</Packages>
 	<Drivers>

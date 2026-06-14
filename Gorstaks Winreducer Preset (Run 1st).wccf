@@ -3,7 +3,7 @@
 <Packages>
   <WinReducerEX>110</WinReducerEX>
   <Version>v3.9.13.0</Version>
-  <Date>6/11/2026 4:54:11 PM</Date>
+  <Date>Sun 14 Jun 2026 3:54:10 AM</Date>
   <Components>
     <Element Category="Appearance" Name="Activate Desktop Context Menu" Selected="false" Value="" />
     <Element Category="Appearance" Name="Safe Mode" Selected="false" Value="" />
@@ -79,89 +79,89 @@
     <Element Category="Features" Name="Windows Subsystem for Linux" Selected="true" Value="3" />
     <Element Category="Features" Name="Work Folders" Selected="false" Value="" />
     <Element Category="Features" Name="XPS Viewer and Printer" Selected="false" Value="" />
-    <Element Category="Remove - Accessories" Name="16-bit Support" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Adaptive Cards" Selected="true" />
+    <Element Category="Remove - Accessories" Name="16-bit Support" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Adaptive Cards" Selected="false" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (Start Menu) Shortcut" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Administrative Tools (Active Directory Sites and Services)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Administrative Tools (Active Directory Sites and Services) Shortcut" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Administrative Tools (ADSI Edit)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Administrative Tools (ADSI Edit) Shortcut" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Administrative Tools (Active Directory Sites and Services)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Administrative Tools (Active Directory Sites and Services) Shortcut" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Administrative Tools (ADSI Edit)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Administrative Tools (ADSI Edit) Shortcut" Selected="false" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (Authorization Manager)" Selected="false" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (Certificates)" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Administrative Tools (Component Services)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Administrative Tools (Component Services) Shortcut" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Administrative Tools (Component Services)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Administrative Tools (Component Services) Shortcut" Selected="false" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (Computer Management)" Selected="false" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (Computer Management) Shortcut" Selected="false" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (Disk Management)" Selected="false" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (Disk Management) Shortcut" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Administrative Tools (Event Viewer)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Administrative Tools (Event Viewer) Shortcut" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Administrative Tools (Event Viewer)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Administrative Tools (Event Viewer) Shortcut" Selected="false" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (Firewall)" Selected="false" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (Firewall) Shortcut" Selected="false" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (Group Policy Editor)" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Administrative Tools (Hyper-V Manager)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Administrative Tools (Hyper-V Manager) Shortcut" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Administrative Tools (Hyper-V Manager)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Administrative Tools (Hyper-V Manager) Shortcut" Selected="false" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (IIS Manager)" Selected="true" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (IIS Manager) Shortcut" Selected="true" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (IIS6 Manager)" Selected="true" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (IIS6 Manager) Shortcut" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Administrative Tools (Memory Diagnostics)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Administrative Tools (Memory Diagnostics) Shortcut" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Administrative Tools (Performance Monitor)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Administrative Tools (Performance Monitor) Shortcut" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Administrative Tools (Memory Diagnostics)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Administrative Tools (Memory Diagnostics) Shortcut" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Administrative Tools (Performance Monitor)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Administrative Tools (Performance Monitor) Shortcut" Selected="false" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (Print Management)" Selected="false" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (Print Management) Shortcut" Selected="false" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (Registry Editor)" Selected="false" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (Registry Editor) Shortcut" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Administrative Tools (Resource Monitor)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Administrative Tools (Resource Monitor) Shortcut" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Administrative Tools (Security Configuration Management)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Administrative Tools (Security Configuration Management) Shortcut" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Administrative Tools (Resource Monitor)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Administrative Tools (Resource Monitor) Shortcut" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Administrative Tools (Security Configuration Management)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Administrative Tools (Security Configuration Management) Shortcut" Selected="false" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (Services)" Selected="false" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (Services) Shortcut" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Administrative Tools (Services For NFS)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Administrative Tools (Services For NFS) Shortcut" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Administrative Tools (Services For NFS)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Administrative Tools (Services For NFS) Shortcut" Selected="false" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (System Configuration)" Selected="false" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (System Configuration) Shortcut" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Administrative Tools (Task Scheduler)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Administrative Tools (Task Scheduler) Shortcut" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Administrative Tools (TPM Management)" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Administrative Tools (Task Scheduler)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Administrative Tools (Task Scheduler) Shortcut" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Administrative Tools (TPM Management)" Selected="false" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (User Accounts)" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Administrative Tools (WMI Control)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Anytime Upgrade" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Administrative Tools (WMI Control)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Anytime Upgrade" Selected="false" />
     <Element Category="Remove - Accessories" Name="Application Experience (Compatibility Tab)" Selected="false" />
     <Element Category="EXPERIMENTAL - Remove - Accessories" Name="Application Experience (Engine)" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Auto Play" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Automatic Maintenance" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Briefcase" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Clipboard (Data Copy)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Clipboard (History)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Character Map" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Auto Play" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Automatic Maintenance" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Briefcase" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Clipboard (Data Copy)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Clipboard (History)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Character Map" Selected="false" />
     <Element Category="Remove - Accessories" Name="Cleartype Tuner" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Continuum" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Credential Manager (Backup and Restore Wizard)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Credential Manager (Command Line Utility)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Diagnostics Troubleshooting Wizard" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Diagnostics (Apps)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Diagnostics (Audio)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Diagnostics (BITS)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Diagnostics (Bluetooth)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Diagnostics (Device)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Diagnostics (Device Center)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Diagnostics (IE Browser)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Diagnostics (IE Security)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Diagnostics (Keyboard)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Diagnostics (Maintenance)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Diagnostics (Memory)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Diagnostics (Network)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Diagnostics (Power)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Diagnostics (Printer)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Diagnostics (Program Compatibility Wizard)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Diagnostics (Search)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Diagnostics (Speech)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Diagnostics (Video)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Diagnostics (Windows Media Player)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Diagnostics (Windows Update)" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Continuum" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Credential Manager (Backup and Restore Wizard)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Credential Manager (Command Line Utility)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Diagnostics Troubleshooting Wizard" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Diagnostics (Apps)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Diagnostics (Audio)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Diagnostics (BITS)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Diagnostics (Bluetooth)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Diagnostics (Device)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Diagnostics (Device Center)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Diagnostics (IE Browser)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Diagnostics (IE Security)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Diagnostics (Keyboard)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Diagnostics (Maintenance)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Diagnostics (Memory)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Diagnostics (Network)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Diagnostics (Power)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Diagnostics (Printer)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Diagnostics (Program Compatibility Wizard)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Diagnostics (Search)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Diagnostics (Speech)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Diagnostics (Video)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Diagnostics (Windows Media Player)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Diagnostics (Windows Update)" Selected="false" />
     <Element Category="Remove - Accessories" Name="Disk Image Burning Tool" Selected="false" />
     <Element Category="Remove - Accessories" Name="Disk Quota" Selected="false" />
     <Element Category="Remove - Accessories" Name="Disk Cleaner (Drivers)" Selected="false" />
@@ -172,105 +172,105 @@
     <Element Category="Remove - Accessories" Name="Display Color Calibration" Selected="false" />
     <Element Category="Remove - Accessories" Name="Display Switch" Selected="false" />
     <Element Category="Remove - Accessories" Name="Ease of Access" Selected="false" />
-    <Element Category="Remove - Accessories" Name="ELS (Extended Linguistic Services)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Focus Assist" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Help and Support" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Help (Engine)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Help (HTML)" Selected="true" />
+    <Element Category="Remove - Accessories" Name="ELS (Extended Linguistic Services)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Focus Assist" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Help and Support" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Help (Engine)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Help (HTML)" Selected="false" />
     <Element Category="Remove - Accessories" Name="Imapi" Selected="false" />
     <Element Category="Remove - Accessories" Name="Input Method Editor" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Machine Learning" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Natural Languages" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Machine Learning" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Natural Languages" Selected="false" />
     <Element Category="Remove - Accessories" Name="Night Light" Selected="false" />
     <Element Category="Remove - Accessories" Name="Notepad" Selected="false" />
     <Element Category="Remove - Accessories" Name="Open DataBase Connectivity (ODBC)" Selected="false" />
-    <Element Category="Remove - Accessories" Name="On Screen Keyboard" Selected="true" />
+    <Element Category="Remove - Accessories" Name="On Screen Keyboard" Selected="false" />
     <Element Category="Remove - Accessories" Name="Open With" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Point Of Service (POS) Access" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Previous Versions" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Private Character Editor" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Recovery Drive Creator" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Point Of Service (POS) Access" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Previous Versions" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Private Character Editor" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Recovery Drive Creator" Selected="false" />
     <Element Category="Remove - Accessories" Name="Run Legacy CPL Elevated" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Screen Magnifier" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Screen Reader" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Screen Magnifier" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Screen Reader" Selected="false" />
     <Element Category="Remove - Accessories" Name="Set Program Access and Defaults" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Snipping Tool" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Spell Checking" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Steps Recorder" Selected="true" />
-    <Element Category="Remove - Accessories" Name="System Information Tool" Selected="true" />
-    <Element Category="Remove - Accessories" Name="System Reset Platform" Selected="true" />
-    <Element Category="Remove - Accessories" Name="System Restore" Selected="true" />
-    <Element Category="Remove - Accessories" Name="System Rollback your PC" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Tablet PC (Engine)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Tablet PC (Flick Learning Wizard)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Tablet PC (Ink)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Tablet PC (Journal)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Tablet PC (Keyboard Input Panel)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Tablet PC (Math Input Panel)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Tablet PC (Text Prediction)" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Snipping Tool" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Spell Checking" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Steps Recorder" Selected="false" />
+    <Element Category="Remove - Accessories" Name="System Information Tool" Selected="false" />
+    <Element Category="Remove - Accessories" Name="System Reset Platform" Selected="false" />
+    <Element Category="Remove - Accessories" Name="System Restore" Selected="false" />
+    <Element Category="Remove - Accessories" Name="System Rollback your PC" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Tablet PC (Engine)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Tablet PC (Flick Learning Wizard)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Tablet PC (Ink)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Tablet PC (Journal)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Tablet PC (Keyboard Input Panel)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Tablet PC (Math Input Panel)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Tablet PC (Text Prediction)" Selected="false" />
     <Element Category="Remove - Accessories" Name="Taskbar (Clock)" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Text Prediction" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Text Prediction" Selected="false" />
     <Element Category="Remove - Accessories" Name="Time and Date" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Time Travel Debugging (TTD)" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Time Travel Debugging (TTD)" Selected="false" />
     <Element Category="Remove - Accessories" Name="UIRibbon Software Compatibility" Selected="false" />
     <Element Category="Remove - Accessories" Name="Webcam Experience" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Welcome Center" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Windows Contacts" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Windows Easy Transfer" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Windows Features" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Windows Features On Demand User Experience (FONDUE)" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Welcome Center" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Windows Contacts" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Windows Easy Transfer" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Windows Features" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Windows Features On Demand User Experience (FONDUE)" Selected="false" />
     <Element Category="Remove - Accessories" Name="Windows Mail" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Windows Mail (Send to Desktop shortcut)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Windows Mail (Send to Mail shortcut)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Windows Recovery Environment" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Windows Mail (Send to Desktop shortcut)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Windows Mail (Send to Mail shortcut)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Windows Recovery Environment" Selected="false" />
     <Element Category="Remove - Accessories" Name="Windows Recovery Environment (Dual Boot Support)" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Windows Recovery Environment (WinRE.wim)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Windows Repair Disc" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Windows Search (Document Filter)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Windows Search (HTML Filter)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Windows Search (MIME Filter)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Windows Search (Plain Text Filter)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Windows Search (RTF Filter)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Windows Sidebar" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Windows Recovery Environment (WinRE.wim)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Windows Repair Disc" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Windows Search (Document Filter)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Windows Search (HTML Filter)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Windows Search (MIME Filter)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Windows Search (Plain Text Filter)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Windows Search (RTF Filter)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Windows Sidebar" Selected="false" />
     <Element Category="Remove - Accessories" Name="Window Switcher" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Windows To Go" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Wordpad" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Write" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Windows To Go" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Wordpad" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Write" Selected="false" />
     <Element Category="Remove - Accessories" Name="Zip" Selected="false" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Action Center" Selected="true" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Action Center (Files)" Selected="true" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Action Center" Selected="false" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Action Center (Files)" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Administrative Tools" Selected="false" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Auto Play" Selected="true" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Backup and Restore (Windows 7)" Selected="true" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Backup and Restore (Windows 7) (Files)" Selected="true" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Auto Play" Selected="false" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Backup and Restore (Windows 7)" Selected="false" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Backup and Restore (Windows 7) (Files)" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Color Management" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Color Management (Files)" Selected="false" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Credential Manager" Selected="true" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Credential Manager (Files)" Selected="true" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Credential Manager" Selected="false" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Credential Manager (Files)" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Date and Time" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Device Center" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Device Center (Files)" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Device Manager" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Device Manager (Files)" Selected="false" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Diagnostics Troubleshooting" Selected="true" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Diagnostics Troubleshooting (Files)" Selected="true" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Diagnostics Troubleshooting" Selected="false" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Diagnostics Troubleshooting (Files)" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Display" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Display (Files)" Selected="false" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Ease of Access" Selected="true" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Ease of Access (Files)" Selected="true" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Ease of Access" Selected="false" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Ease of Access (Files)" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Folder Options" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Font Folder" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Font Folder (Files)" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Game Controllers" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Game Controllers (Files)" Selected="false" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - History Vault" Selected="true" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - History Vault" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - HomeGroup" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Indexing Options" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Indexing Options (Files)" Selected="false" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Infrared" Selected="true" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Infrared (Files)" Selected="true" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Internet Options" Selected="true" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Internet Options (Files)" Selected="true" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Infrared" Selected="false" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Infrared (Files)" Selected="false" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Internet Options" Selected="false" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Internet Options (Files)" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Keyboard" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Language Settings" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Language Settings (Files)" Selected="false" />
@@ -278,8 +278,8 @@
     <Element Category="Remove - Control Panels" Name="Control Panel - Mouse" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Network and Sharing Center" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Network and Sharing Center (Files)" Selected="false" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Pen and Touch" Selected="true" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Pen and Touch (Files)" Selected="true" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Pen and Touch" Selected="false" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Pen and Touch (Files)" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Personalization" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Personalization (Files)" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Phone and Modem" Selected="false" />
@@ -288,37 +288,37 @@
     <Element Category="Remove - Control Panels" Name="Control Panel - Power Options (Files)" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Programs and Features" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Programs and Features (Files)" Selected="false" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Recovery" Selected="true" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Recovery (Files)" Selected="true" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Recovery" Selected="false" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Recovery (Files)" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Region and Language" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Region and Language (Files)" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Scanner and Camera" Selected="false" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Secure Startup" Selected="true" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Secure Startup" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Set User Defaults" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Sound" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Sound (Files)" Selected="false" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Speech Recognition" Selected="true" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Storage Spaces" Selected="true" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Storage Spaces (Files)" Selected="true" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Sync Center Folder" Selected="true" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Sync Center Folder (Files)" Selected="true" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Speech Recognition" Selected="false" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Storage Spaces" Selected="false" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Storage Spaces (Files)" Selected="false" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Sync Center Folder" Selected="false" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Sync Center Folder (Files)" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - System" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - System (Files)" Selected="false" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Tablet PC Settings" Selected="true" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Tablet PC Settings (Files)" Selected="true" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Tablet PC Settings" Selected="false" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Tablet PC Settings (Files)" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Taskbar and Start Menu" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Taskbar and Start Menu (Files)" Selected="false" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Text to Speech" Selected="true" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Text to Speech" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - User Accounts" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - User Accounts (Files)" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - View Available Networks" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - View Available Networks (Files)" Selected="false" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Windows Defender" Selected="true" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Windows Defender" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Windows Firewall" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Wireless Devices" Selected="false" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Work Folders" Selected="true" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Workspaces Center" Selected="true" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Workspaces Center (Files)" Selected="true" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Work Folders" Selected="false" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Workspaces Center" Selected="false" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Workspaces Center (Files)" Selected="false" />
     <Element Category="Remove - Drivers" Name="Windows Drivers Download Support" Selected="false" />
     <Element Category="Remove - Drivers" Name="Bluetooth - Marvell" Selected="true" />
     <Element Category="Remove - Drivers" Name="Display - AGP" Selected="true" />
@@ -454,7 +454,7 @@
     <Element Category="Remove - Drivers" Name="Support - NVM Express" Selected="false" />
     <Element Category="Remove - Drivers" Name="Support - PC Card" Selected="false" />
     <Element Category="Remove - Drivers" Name="Support - Pcmcia" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Support - Point Of Service (POS) Barcode Scanner" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Support - Point Of Service (POS) Barcode Scanner" Selected="false" />
     <Element Category="Remove - Drivers" Name="Support - Point Of Service (POS) Cash Drawer" Selected="true" />
     <Element Category="Remove - Drivers" Name="Support - Point Of Service (POS) OPOS Bridge" Selected="true" />
     <Element Category="Remove - Drivers" Name="Support - Point Of Service (POS) Receipt Printer" Selected="true" />
@@ -648,44 +648,44 @@
     <Element Category="Remove - Keyboards" Name="Yoruba" Selected="false" Value="046a" />
     <Element Category="Remove - Keyboards" Name="Various Keyboards" Selected="false" Value="" />
     <Element Category="Remove - Languages" Name="Language Pack Support" Selected="false" Value="" />
-    <Element Category="Remove - Languages" Name="Bulgaria" Selected="true" Value="bg-BG" />
-    <Element Category="Remove - Languages" Name="Brazil" Selected="true" Value="pt-BR" />
-    <Element Category="Remove - Languages" Name="Canada" Selected="true" Value="fr-CA" />
-    <Element Category="Remove - Languages" Name="China (HK)" Selected="true" Value="zh-HK" />
-    <Element Category="Remove - Languages" Name="China (S)" Selected="true" Value="zh-CN" />
+    <Element Category="Remove - Languages" Name="Bulgaria" Selected="false" Value="bg-BG" />
+    <Element Category="Remove - Languages" Name="Brazil" Selected="false" Value="pt-BR" />
+    <Element Category="Remove - Languages" Name="Canada" Selected="false" Value="fr-CA" />
+    <Element Category="Remove - Languages" Name="China (HK)" Selected="false" Value="zh-HK" />
+    <Element Category="Remove - Languages" Name="China (S)" Selected="false" Value="zh-CN" />
     <Element Category="Remove - Languages" Name="China (T)" Selected="false" Value="zh-TW" />
-    <Element Category="Remove - Languages" Name="Croatia" Selected="true" Value="hr-HR" />
-    <Element Category="Remove - Languages" Name="Czech Republic" Selected="true" Value="cs-CZ" />
-    <Element Category="Remove - Languages" Name="Denmark" Selected="true" Value="da-DK" />
-    <Element Category="Remove - Languages" Name="Estonia" Selected="true" Value="et-EE" />
-    <Element Category="Remove - Languages" Name="Finland" Selected="true" Value="fi-FI" />
-    <Element Category="Remove - Languages" Name="France" Selected="true" Value="fr-FR" />
-    <Element Category="Remove - Languages" Name="Germany" Selected="true" Value="de-DE" />
-    <Element Category="Remove - Languages" Name="Greece" Selected="true" Value="el-GR" />
-    <Element Category="Remove - Languages" Name="Hungary" Selected="true" Value="hu-HU" />
-    <Element Category="Remove - Languages" Name="Israel" Selected="true" Value="he-IL" />
-    <Element Category="Remove - Languages" Name="Italy" Selected="true" Value="it-IT" />
+    <Element Category="Remove - Languages" Name="Croatia" Selected="false" Value="hr-HR" />
+    <Element Category="Remove - Languages" Name="Czech Republic" Selected="false" Value="cs-CZ" />
+    <Element Category="Remove - Languages" Name="Denmark" Selected="false" Value="da-DK" />
+    <Element Category="Remove - Languages" Name="Estonia" Selected="false" Value="et-EE" />
+    <Element Category="Remove - Languages" Name="Finland" Selected="false" Value="fi-FI" />
+    <Element Category="Remove - Languages" Name="France" Selected="false" Value="fr-FR" />
+    <Element Category="Remove - Languages" Name="Germany" Selected="false" Value="de-DE" />
+    <Element Category="Remove - Languages" Name="Greece" Selected="false" Value="el-GR" />
+    <Element Category="Remove - Languages" Name="Hungary" Selected="false" Value="hu-HU" />
+    <Element Category="Remove - Languages" Name="Israel" Selected="false" Value="he-IL" />
+    <Element Category="Remove - Languages" Name="Italy" Selected="false" Value="it-IT" />
     <Element Category="Remove - Languages" Name="Japan" Selected="false" Value="ja-JP" />
     <Element Category="Remove - Languages" Name="Korea" Selected="false" Value="ko-KR" />
-    <Element Category="Remove - Languages" Name="Latvia" Selected="true" Value="lv-LV" />
-    <Element Category="Remove - Languages" Name="Lithuania" Selected="true" Value="lt-LT" />
-    <Element Category="Remove - Languages" Name="Mexico" Selected="true" Value="es-MX" />
-    <Element Category="Remove - Languages" Name="Norway" Selected="true" Value="nb-NO" />
-    <Element Category="Remove - Languages" Name="Netherlands" Selected="true" Value="nl-NL" />
-    <Element Category="Remove - Languages" Name="Poland" Selected="true" Value="pl-PL" />
-    <Element Category="Remove - Languages" Name="Portugal" Selected="true" Value="pt-PT" />
-    <Element Category="Remove - Languages" Name="Romania" Selected="true" Value="ro-RO" />
-    <Element Category="Remove - Languages" Name="Russia" Selected="true" Value="ru-RU" />
-    <Element Category="Remove - Languages" Name="Saudi Arabia" Selected="true" Value="ar-SA" />
-    <Element Category="Remove - Languages" Name="Serbia" Selected="true" Value="sr-Latn-CS" />
-    <Element Category="Remove - Languages" Name="Slovakia" Selected="true" Value="sk-SK" />
-    <Element Category="Remove - Languages" Name="Slovenia" Selected="true" Value="sl-SI" />
-    <Element Category="Remove - Languages" Name="Spain" Selected="true" Value="es-ES" />
-    <Element Category="Remove - Languages" Name="Sweden" Selected="true" Value="sv-SE" />
-    <Element Category="Remove - Languages" Name="Thailand" Selected="true" Value="th-TH" />
-    <Element Category="Remove - Languages" Name="Turkey" Selected="true" Value="tr-TR" />
-    <Element Category="Remove - Languages" Name="Ukraine" Selected="true" Value="uk-UA" />
-    <Element Category="Remove - Languages" Name="United Kingdom" Selected="true" Value="en-GB" />
+    <Element Category="Remove - Languages" Name="Latvia" Selected="false" Value="lv-LV" />
+    <Element Category="Remove - Languages" Name="Lithuania" Selected="false" Value="lt-LT" />
+    <Element Category="Remove - Languages" Name="Mexico" Selected="false" Value="es-MX" />
+    <Element Category="Remove - Languages" Name="Norway" Selected="false" Value="nb-NO" />
+    <Element Category="Remove - Languages" Name="Netherlands" Selected="false" Value="nl-NL" />
+    <Element Category="Remove - Languages" Name="Poland" Selected="false" Value="pl-PL" />
+    <Element Category="Remove - Languages" Name="Portugal" Selected="false" Value="pt-PT" />
+    <Element Category="Remove - Languages" Name="Romania" Selected="false" Value="ro-RO" />
+    <Element Category="Remove - Languages" Name="Russia" Selected="false" Value="ru-RU" />
+    <Element Category="Remove - Languages" Name="Saudi Arabia" Selected="false" Value="ar-SA" />
+    <Element Category="Remove - Languages" Name="Serbia" Selected="false" Value="sr-Latn-CS" />
+    <Element Category="Remove - Languages" Name="Slovakia" Selected="false" Value="sk-SK" />
+    <Element Category="Remove - Languages" Name="Slovenia" Selected="false" Value="sl-SI" />
+    <Element Category="Remove - Languages" Name="Spain" Selected="false" Value="es-ES" />
+    <Element Category="Remove - Languages" Name="Sweden" Selected="false" Value="sv-SE" />
+    <Element Category="Remove - Languages" Name="Thailand" Selected="false" Value="th-TH" />
+    <Element Category="Remove - Languages" Name="Turkey" Selected="false" Value="tr-TR" />
+    <Element Category="Remove - Languages" Name="Ukraine" Selected="false" Value="uk-UA" />
+    <Element Category="Remove - Languages" Name="United Kingdom" Selected="false" Value="en-GB" />
     <Element Category="Remove - Languages" Name="United States" Selected="DEFAULT" Value="en-US" />
     <Element Category="EXPERIMENTAL - Remove - Languages" Name="National Language Support (Arabic)" Selected="false" Value="" />
     <Element Category="EXPERIMENTAL - Remove - Languages" Name="National Language Support (Baltic)" Selected="false" Value="" />
@@ -723,97 +723,97 @@
     <Element Category="EXPERIMENTAL - Remove - Languages" Name="National Language Support (Vietnamese)" Selected="false" Value="" />
     <Element Category="EXPERIMENTAL - Remove - Languages" Name="National Language Support (Various NLS)" Selected="false" Value="" />
     <Element Category="Remove - Modern UI Apps" Name="Application Compatibility Enhancements" Selected="false" />
-    <Element Category="Remove - Modern UI Apps" Name="App Resolver UX" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Bing News" Selected="true" />
+    <Element Category="Remove - Modern UI Apps" Name="App Resolver UX" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Bing News" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Bing Search" Selected="false" />
-    <Element Category="Remove - Modern UI Apps" Name="Bing Weather" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Bio Enrollment" Selected="true" />
+    <Element Category="Remove - Modern UI Apps" Name="Bing Weather" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Bio Enrollment" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Calculator" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Camera" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Camera Barcode Scanner" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Capture Picker" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Clipchamp" Selected="false" />
-    <Element Category="Remove - Modern UI Apps" Name="Communication Applications" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Content Delivery Manager" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Cortana" Selected="true" />
+    <Element Category="Remove - Modern UI Apps" Name="Communication Applications" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Content Delivery Manager" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Cortana" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Desktop App Installer" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Desktop App Web Viewer" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Dev Home" Selected="false" />
-    <Element Category="Remove - Modern UI Apps" Name="Dialog (Add Suggested Folders To Library)" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Dialog (Pinning Confirmation)" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Dialog (X GPU Eject)" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Eye Control" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="File Explorer" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="File Picker" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Framework (Advertising SDK)" Selected="true" />
+    <Element Category="Remove - Modern UI Apps" Name="Dialog (Add Suggested Folders To Library)" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Dialog (Pinning Confirmation)" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Dialog (X GPU Eject)" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Eye Control" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="File Explorer" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="File Picker" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Framework (Advertising SDK)" Selected="false" />
     <Element Category="EXPERIMENTAL - Remove - Modern UI Apps" Name="Framework (ApplicationFrameHost)" Selected="false" />
-    <Element Category="Remove - Modern UI Apps" Name="Framework (Appointment)" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Framework (Chat)" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Framework (Contact)" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Framework (Email)" Selected="true" />
+    <Element Category="Remove - Modern UI Apps" Name="Framework (Appointment)" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Framework (Chat)" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Framework (Contact)" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Framework (Email)" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Framework (Input Text Services)" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Framework (App Runtime)" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Framework (.NET Native)" Selected="false" />
-    <Element Category="Remove - Modern UI Apps" Name="Framework (People)" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Framework (Phone Call History)" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Framework (Task)" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Framework (Text Services Async)" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Framework (User Data Account)" Selected="true" />
+    <Element Category="Remove - Modern UI Apps" Name="Framework (People)" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Framework (Phone Call History)" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Framework (Task)" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Framework (Text Services Async)" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Framework (User Data Account)" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Framework (Visual C++ Runtime)" Selected="false" />
-    <Element Category="Remove - Modern UI Apps" Name="Framework (Windows Mixed Reality OpenXR)" Selected="true" />
+    <Element Category="Remove - Modern UI Apps" Name="Framework (Windows Mixed Reality OpenXR)" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Framework (Xaml)" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Framework (Xbox LIVE Games)" Selected="false" />
-    <Element Category="Remove - Modern UI Apps" Name="Get Help" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Get Started" Selected="true" />
+    <Element Category="Remove - Modern UI Apps" Name="Get Help" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Get Started" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Immersive Control Panel" Selected="false" />
-    <Element Category="Remove - Modern UI Apps" Name="Lock Screen Apps" Selected="true" />
+    <Element Category="Remove - Modern UI Apps" Name="Lock Screen Apps" Selected="false" />
     <Element Category="EXPERIMENTAL - Remove - Modern UI Apps" Name="Microsoft Accounts Control" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Microsoft Edge" Selected="true" />
     <Element Category="Remove - Modern UI Apps" Name="Microsoft Quick Assist" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Microsoft Teams" Selected="false" />
-    <Element Category="Remove - Modern UI Apps" Name="Microsoft To Do" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="My People" Selected="true" />
+    <Element Category="Remove - Modern UI Apps" Name="Microsoft To Do" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="My People" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Notepad" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="OOBE (Cortana)" Selected="false" />
-    <Element Category="Remove - Modern UI Apps" Name="OOBE (Network Captive Portal)" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Office Hub" Selected="true" />
+    <Element Category="Remove - Modern UI Apps" Name="OOBE (Network Captive Portal)" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Office Hub" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Outlook For Windows" Selected="false" />
-    <Element Category="Remove - Modern UI Apps" Name="One Connect" Selected="true" />
+    <Element Category="Remove - Modern UI Apps" Name="One Connect" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Paint" Selected="false" />
-    <Element Category="Remove - Modern UI Apps" Name="Parental Controls" Selected="true" />
+    <Element Category="Remove - Modern UI Apps" Name="Parental Controls" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="PDF Support" Selected="false" />
-    <Element Category="Remove - Modern UI Apps" Name="People" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Phone Call" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Power Automate Desktop" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Retail Demo" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Screen Sketch" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Slide to Shutdown" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Solitaire Collection" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Sticky Notes" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Web Media Extensions" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Windows Alarms" Selected="true" />
+    <Element Category="Remove - Modern UI Apps" Name="People" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Phone Call" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Power Automate Desktop" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Retail Demo" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Screen Sketch" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Slide to Shutdown" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Solitaire Collection" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Sticky Notes" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Web Media Extensions" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Windows Alarms" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Windows Defender" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Windows Feature Experience Pack (Online)" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Windows Feedback" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Windows Maps" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Windows Maps (Engine)" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Windows Mixed Reality (Engine)" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Windows Mixed Reality (Simulation)" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Windows Photos" Selected="true" />
+    <Element Category="Remove - Modern UI Apps" Name="Windows Feature Experience Pack (Online)" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Windows Feedback" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Windows Maps" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Windows Maps (Engine)" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Windows Mixed Reality (Engine)" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Windows Mixed Reality (Simulation)" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Windows Photos" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Windows Photos (Print Wizard)" Selected="false" />
-    <Element Category="Remove - Modern UI Apps" Name="Windows Sound Recorder" Selected="true" />
+    <Element Category="Remove - Modern UI Apps" Name="Windows Sound Recorder" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Windows Store" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Windows Store (Purchase App)" Selected="false" />
-    <Element Category="Remove - Modern UI Apps" Name="Windows Terminal" Selected="true" />
+    <Element Category="Remove - Modern UI Apps" Name="Windows Terminal" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Xbox LIVE Games" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Xbox LIVE Games (Game Overlay)" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Xbox LIVE Games (Identity Provider)" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Xbox LIVE Games (In-Game Experience)" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Xbox LIVE Games (Speech to Text Overlay)" Selected="false" />
-    <Element Category="Remove - Modern UI Apps" Name="Your Phone" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Zune Music" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Zune Video" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="ActiveX control for streaming video" Selected="true" />
+    <Element Category="Remove - Modern UI Apps" Name="Your Phone" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Zune Music" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Zune Video" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="ActiveX control for streaming video" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Battery Meter" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Biometry - Face Authentication" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Biometry - Face Detection" Selected="false" />
@@ -822,87 +822,87 @@
     <Element Category="Remove - Multimedia" Name="Biometry - PIN Authentification" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Biometry - Picture Password" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Bluetooth (Device Pairing)" Selected="false" />
-    <Element Category="Remove - Multimedia" Name="Codec - 3D Audio (Decoder)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Codec - 3D Audio (Dolby Headphones Encoder)" Selected="true" />
+    <Element Category="Remove - Multimedia" Name="Codec - 3D Audio (Decoder)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Codec - 3D Audio (Dolby Headphones Encoder)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - AAC (Decoder)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - AAC (Encoder)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - ADPCM (Decoder)" Selected="false" />
-    <Element Category="Remove - Multimedia" Name="Codec - ADPCM (Encoder)" Selected="true" />
+    <Element Category="Remove - Multimedia" Name="Codec - ADPCM (Encoder)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - Alac (Decoder)" Selected="false" />
-    <Element Category="Remove - Multimedia" Name="Codec - Alac (Encoder)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Codec - AMR (Container)" Selected="true" />
+    <Element Category="Remove - Multimedia" Name="Codec - Alac (Encoder)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Codec - AMR (Container)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - AMR (Decoder)" Selected="false" />
-    <Element Category="Remove - Multimedia" Name="Codec - AMR (Encoder)" Selected="true" />
+    <Element Category="Remove - Multimedia" Name="Codec - AMR (Encoder)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - ASF (Container)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - AV1 (Decoder)" Selected="false" />
-    <Element Category="Remove - Multimedia" Name="Codec - Cinepak" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Codec - Dolby ATMOS (Encoder)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Codec - Dolby Digital (Decoder)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Codec - Dolby Digital (Encoder)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Codec - DV (Decoder)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Codec - DV (Encoder)" Selected="true" />
+    <Element Category="Remove - Multimedia" Name="Codec - Cinepak" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Codec - Dolby ATMOS (Encoder)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Codec - Dolby Digital (Decoder)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Codec - Dolby Digital (Encoder)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Codec - DV (Decoder)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Codec - DV (Encoder)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - Flac (Decoder)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - Flac (Encoder)" Selected="false" />
-    <Element Category="Remove - Multimedia" Name="Codec - Indeo4" Selected="true" />
+    <Element Category="Remove - Multimedia" Name="Codec - Indeo4" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - Indeo5" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - H263 (Decoder)" Selected="false" />
-    <Element Category="Remove - Multimedia" Name="Codec - H263 (Encoder)" Selected="true" />
+    <Element Category="Remove - Multimedia" Name="Codec - H263 (Encoder)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - H264 (Decoder)" Selected="false" />
-    <Element Category="Remove - Multimedia" Name="Codec - H264 (Encoder)" Selected="true" />
+    <Element Category="Remove - Multimedia" Name="Codec - H264 (Encoder)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - H265 (Decoder)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - H265 (Encoder)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - MJPEG (Decoder)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - MP3 (Decoder)" Selected="false" />
-    <Element Category="Remove - Multimedia" Name="Codec - MP3 (Encoder)" Selected="true" />
+    <Element Category="Remove - Multimedia" Name="Codec - MP3 (Encoder)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - MKV (Container)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - MP4 (Container)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - MPEG2 Audio and Video (Container)" Selected="false" />
-    <Element Category="Remove - Multimedia" Name="Codec - MPEG2 Audio and Video (Encoder)" Selected="true" />
+    <Element Category="Remove - Multimedia" Name="Codec - MPEG2 Audio and Video (Encoder)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - MPEG2 Audio (Decoder)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - MPEG2 Video (Decoder)" Selected="false" />
-    <Element Category="Remove - Multimedia" Name="Codec - MPEG2 Video (Decoder for Digital TV)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Codec - Opus (Decoder)" Selected="true" />
+    <Element Category="Remove - Multimedia" Name="Codec - MPEG2 Video (Decoder for Digital TV)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Codec - Opus (Decoder)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - Photo" Selected="false" />
-    <Element Category="Remove - Multimedia" Name="Codec - Photo (HEIF)" Selected="true" />
+    <Element Category="Remove - Multimedia" Name="Codec - Photo (HEIF)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - Photo (Raw)" Selected="false" />
-    <Element Category="Remove - Multimedia" Name="Codec - Photo (WebP)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Codec - VP9 (Decoder)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Codec - VP9 (Encoder)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Codec - WMA (Decoder)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Codec - WMA (Encoder)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Codec - WMA Voice (Decoder)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Codec - WMA Voice (Encoder)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Codec - WMV (Decoder)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Codec - WMV (Encoder)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Codec - WMV Screen (Decoder)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Codec - WMV Screen (Encoder)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Codec - YUV Intel (Decoder)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Codec - YUV Microsoft (Decoder)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Codec - YUV Toshiba (Decoder)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Digimarc (Decoder)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Digital Living Network Alliance (DLNA)" Selected="true" />
+    <Element Category="Remove - Multimedia" Name="Codec - Photo (WebP)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Codec - VP9 (Decoder)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Codec - VP9 (Encoder)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Codec - WMA (Decoder)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Codec - WMA (Encoder)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Codec - WMA Voice (Decoder)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Codec - WMA Voice (Encoder)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Codec - WMV (Decoder)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Codec - WMV (Encoder)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Codec - WMV Screen (Decoder)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Codec - WMV Screen (Encoder)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Codec - YUV Intel (Decoder)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Codec - YUV Microsoft (Decoder)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Codec - YUV Toshiba (Decoder)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Digimarc (Decoder)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Digital Living Network Alliance (DLNA)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="DirectX (Direct Music)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="DirectX (Diagnostic Tool)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="DVD-Video Playback" Selected="false" />
-    <Element Category="Remove - Multimedia" Name="Embedded Lockdown" Selected="true" />
+    <Element Category="Remove - Multimedia" Name="Embedded Lockdown" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Force Feedback" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Game Bar" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Game Bar (DVR)" Selected="false" />
-    <Element Category="Remove - Multimedia" Name="Game Chat" Selected="true" />
+    <Element Category="Remove - Multimedia" Name="Game Chat" Selected="false" />
     <Element Category="EXPERIMENTAL - Remove - Multimedia" Name="Game Mode" Selected="false" />
-    <Element Category="Remove - Multimedia" Name="Games Explorer" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Gracenote (GNSDK)" Selected="true" />
+    <Element Category="Remove - Multimedia" Name="Games Explorer" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Gracenote (GNSDK)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="HDCP Monitor Support" Selected="false" />
     <Element Category="Remove - Multimedia" Name="International Components for Unicode (ICU)" Selected="false" />
-    <Element Category="Remove - Multimedia" Name="MCI driver (CDAudio Devices)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="MCI driver (MIDI Sequencer)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="MCI driver (Video For Windows)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="MCI driver (Waveform Audio)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Microsoft PlayReady" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Microsoft RLE Compressor" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Microsoft Video 1 Compressor" Selected="true" />
+    <Element Category="Remove - Multimedia" Name="MCI driver (CDAudio Devices)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="MCI driver (MIDI Sequencer)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="MCI driver (Video For Windows)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="MCI driver (Waveform Audio)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Microsoft PlayReady" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Microsoft RLE Compressor" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Microsoft Video 1 Compressor" Selected="false" />
     <Element Category="Remove - Multimedia" Name="MIDI Support" Selected="false" />
-    <Element Category="Remove - Multimedia" Name="Miracast" Selected="true" />
+    <Element Category="Remove - Multimedia" Name="Miracast" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Mobile PC (Engine)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Mobile PC (Mobility Center)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Mobile PC (Presentation)" Selected="false" />
@@ -911,23 +911,23 @@
     <Element Category="Remove - Multimedia" Name="Photo Gallery Viewer" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Photo Viewer" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Photo Viewer (Print Wizard)" Selected="false" />
-    <Element Category="Remove - Multimedia" Name="Shoulder Tap" Selected="true" />
+    <Element Category="Remove - Multimedia" Name="Shoulder Tap" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Speech" Selected="false" />
-    <Element Category="Remove - Multimedia" Name="Speech (Voice Activation)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Stream Buffer Engine (SBE)" Selected="true" />
+    <Element Category="Remove - Multimedia" Name="Speech (Voice Activation)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Stream Buffer Engine (SBE)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Windows Imaging Component" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Windows Media Center" Selected="false" />
-    <Element Category="Remove - Multimedia" Name="Windows PlayTo" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Windows PlayTo (Context Menu)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Windows PlayTo (Device)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Windows PlayTo (Receiver)" Selected="true" />
+    <Element Category="Remove - Multimedia" Name="Windows PlayTo" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Windows PlayTo (Context Menu)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Windows PlayTo (Device)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Windows PlayTo (Receiver)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Windows Portable Devices" Selected="false" />
-    <Element Category="Remove - Multimedia" Name="Windows System Assessment Tool (WinSAT)" Selected="true" />
+    <Element Category="Remove - Multimedia" Name="Windows System Assessment Tool (WinSAT)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Wireless Docking" Selected="false" />
-    <Element Category="Remove - Network" Name="Active Directory (Find AD Group Membership)" Selected="true" />
-    <Element Category="Remove - Network" Name="Adobe Flash for Windows" Selected="true" />
+    <Element Category="Remove - Network" Name="Active Directory (Find AD Group Membership)" Selected="false" />
+    <Element Category="Remove - Network" Name="Adobe Flash for Windows" Selected="false" />
     <Element Category="Remove - Network" Name="Auto Check Proxy Utility" Selected="false" />
-    <Element Category="Remove - Network" Name="Azure Active Directory" Selected="true" />
+    <Element Category="Remove - Network" Name="Azure Active Directory" Selected="false" />
     <Element Category="Remove - Network" Name="Cellular (Air Plane Mode)" Selected="false" />
     <Element Category="Remove - Network" Name="Cellular (Radio Interface Layer)" Selected="false" />
     <Element Category="Remove - Network" Name="Cellular (Settings CSP)" Selected="false" />
@@ -937,10 +937,10 @@
     <Element Category="Remove - Network" Name="Device Based Conditional Access" Selected="false" />
     <Element Category="Remove - Network" Name="Distributed File System (DFS)" Selected="false" />
     <Element Category="Remove - Network" Name="Distributed Routing Table (DRT)" Selected="false" />
-    <Element Category="Remove - Network" Name="Edge (Engine)" Selected="true" />
-    <Element Category="Remove - Network" Name="Edge (Developer Tools)" Selected="true" />
-    <Element Category="Remove - Network" Name="Edge (JScript Engine)" Selected="true" />
-    <Element Category="Remove - Network" Name="Edge (WebView)" Selected="true" />
+    <Element Category="Remove - Network" Name="Edge (Engine)" Selected="false" />
+    <Element Category="Remove - Network" Name="Edge (Developer Tools)" Selected="false" />
+    <Element Category="Remove - Network" Name="Edge (JScript Engine)" Selected="false" />
+    <Element Category="Remove - Network" Name="Edge (WebView)" Selected="false" />
     <Element Category="Remove - Network" Name="Embedded SIM (eSIM)" Selected="false" />
     <Element Category="Remove - Network" Name="Extensible Authentication Protocol Subscriber Identity Module (EAP-SIM)" Selected="false" />
     <Element Category="Remove - Network" Name="Extensible Authentication Protocol Transport Layer Security (EAP-TLS)" Selected="false" />
@@ -948,48 +948,48 @@
     <Element Category="Remove - Network" Name="File Server Resource Manager (FSRM)" Selected="false" />
     <Element Category="Remove - Network" Name="Geolocation" Selected="false" />
     <Element Category="Remove - Network" Name="IEEE 802.1X Network Access Authentification" Selected="false" />
-    <Element Category="Remove - Network" Name="Internet Explorer (Engine)" Selected="true" />
-    <Element Category="Remove - Network" Name="Internet Explorer (Developer Tools)" Selected="true" />
-    <Element Category="Remove - Network" Name="Internet Explorer (Feeds)" Selected="true" />
-    <Element Category="Remove - Network" Name="Internet Explorer (JScript Engine)" Selected="true" />
+    <Element Category="Remove - Network" Name="Internet Explorer (Engine)" Selected="false" />
+    <Element Category="Remove - Network" Name="Internet Explorer (Developer Tools)" Selected="false" />
+    <Element Category="Remove - Network" Name="Internet Explorer (Feeds)" Selected="false" />
+    <Element Category="Remove - Network" Name="Internet Explorer (JScript Engine)" Selected="false" />
     <Element Category="Remove - Network" Name="Internet Explorer (Office Support)" Selected="false" />
-    <Element Category="Remove - Network" Name="Microsoft Sync" Selected="true" />
+    <Element Category="Remove - Network" Name="Microsoft Sync" Selected="false" />
     <Element Category="Remove - Network" Name="Mobile Broadband Experience" Selected="false" />
     <Element Category="Remove - Network" Name="Mobile Broadband SMS" Selected="false" />
     <Element Category="Remove - Network" Name="Mobile Broadband USSD" Selected="false" />
-    <Element Category="Remove - Network" Name="Near Share" Selected="true" />
-    <Element Category="Remove - Network" Name="Net Messages" Selected="true" />
+    <Element Category="Remove - Network" Name="Near Share" Selected="false" />
+    <Element Category="Remove - Network" Name="Net Messages" Selected="false" />
     <Element Category="Remove - Network" Name="NetBIOS" Selected="false" />
-    <Element Category="Remove - Network" Name="Network Messaging Service" Selected="true" />
+    <Element Category="Remove - Network" Name="Network Messaging Service" Selected="false" />
     <Element Category="Remove - Network" Name="OneDrive" Selected="false" />
-    <Element Category="Remove - Network" Name="OneDrive (Files On-Demand)" Selected="true" />
-    <Element Category="Remove - Network" Name="OneDrive (Online Backup)" Selected="true" />
+    <Element Category="Remove - Network" Name="OneDrive (Files On-Demand)" Selected="false" />
+    <Element Category="Remove - Network" Name="OneDrive (Online Backup)" Selected="false" />
     <Element Category="Remove - Network" Name="Proximity" Selected="false" />
-    <Element Category="Remove - Network" Name="Redirected Drive Buffering Subsystem (RDBSS)" Selected="true" />
+    <Element Category="Remove - Network" Name="Redirected Drive Buffering Subsystem (RDBSS)" Selected="false" />
     <Element Category="Remove - Network" Name="Remote Access (Agile VPN)" Selected="false" />
     <Element Category="Remove - Network" Name="Remote Access (Soh VPN)" Selected="false" />
     <Element Category="Remove - Network" Name="Remote Access (VPN Support)" Selected="false" />
-    <Element Category="Remove - Network" Name="Remote Applications" Selected="true" />
-    <Element Category="Remove - Network" Name="Remote Assistance" Selected="true" />
-    <Element Category="Remove - Network" Name="Remote Desktop Connection" Selected="true" />
-    <Element Category="Remove - Network" Name="Remote Desktop (Quick Assist)" Selected="true" />
+    <Element Category="Remove - Network" Name="Remote Applications" Selected="false" />
+    <Element Category="Remove - Network" Name="Remote Assistance" Selected="false" />
+    <Element Category="Remove - Network" Name="Remote Desktop Connection" Selected="false" />
+    <Element Category="Remove - Network" Name="Remote Desktop (Quick Assist)" Selected="false" />
     <Element Category="Remove - Network" Name="Secure Multipurpose Internet Mail Extensions (SMIME)" Selected="false" />
     <Element Category="Remove - Network" Name="Server Initiated Healing" Selected="false" />
-    <Element Category="Remove - Network" Name="Shared Experiences" Selected="true" />
+    <Element Category="Remove - Network" Name="Shared Experiences" Selected="false" />
     <Element Category="Remove - Network" Name="Shared Folders Wizard" Selected="false" />
-    <Element Category="Remove - Network" Name="Shared PC" Selected="true" />
+    <Element Category="Remove - Network" Name="Shared PC" Selected="false" />
     <Element Category="Remove - Network" Name="Sharing (Shell Extensions)" Selected="false" />
-    <Element Category="Remove - Network" Name="Smart Screen" Selected="true" />
+    <Element Category="Remove - Network" Name="Smart Screen" Selected="false" />
     <Element Category="Remove - Network" Name="SMB Client (Redirector)" Selected="false" />
-    <Element Category="Remove - Network" Name="SQL Client" Selected="true" />
-    <Element Category="Remove - Network" Name="SQL Server" Selected="true" />
-    <Element Category="Remove - Network" Name="Telemetry" Selected="true" />
+    <Element Category="Remove - Network" Name="SQL Client" Selected="false" />
+    <Element Category="Remove - Network" Name="SQL Server" Selected="false" />
+    <Element Category="Remove - Network" Name="Telemetry" Selected="false" />
     <Element Category="Remove - Network" Name="Tethering Portable Hotspot" Selected="false" />
-    <Element Category="Remove - Network" Name="Upgrade and Privacy Experience (UPX)" Selected="true" />
-    <Element Category="Remove - Network" Name="Web DAV" Selected="true" />
-    <Element Category="Remove - Network" Name="Web Services" Selected="true" />
-    <Element Category="Remove - Network" Name="Web Services Management (WS-MAN)" Selected="true" />
-    <Element Category="Remove - Network" Name="Windows Desktop Sharing" Selected="true" />
+    <Element Category="Remove - Network" Name="Upgrade and Privacy Experience (UPX)" Selected="false" />
+    <Element Category="Remove - Network" Name="Web DAV" Selected="false" />
+    <Element Category="Remove - Network" Name="Web Services" Selected="false" />
+    <Element Category="Remove - Network" Name="Web Services Management (WS-MAN)" Selected="false" />
+    <Element Category="Remove - Network" Name="Windows Desktop Sharing" Selected="false" />
     <Element Category="Remove - Network" Name="Windows System Key Protection" Selected="false" />
     <Element Category="Remove - Themes" Name="Cursors - Aero" Selected="false" />
     <Element Category="Remove - Themes" Name="Cursors - Aero (L)" Selected="false" />
@@ -1000,10 +1000,10 @@
     <Element Category="Remove - Themes" Name="Cursors - Inverted" Selected="false" />
     <Element Category="Remove - Themes" Name="Cursors - Inverted (L)" Selected="false" />
     <Element Category="Remove - Themes" Name="Cursors - Inverted (XL)" Selected="false" />
-    <Element Category="Remove - Themes" Name="Cursors - Magnified" Selected="true" />
-    <Element Category="Remove - Themes" Name="Cursors - Standard (L)" Selected="true" />
-    <Element Category="Remove - Themes" Name="Cursors - Standard (XL)" Selected="true" />
-    <Element Category="Remove - Themes" Name="Icons - More Icons" Selected="true" />
+    <Element Category="Remove - Themes" Name="Cursors - Magnified" Selected="false" />
+    <Element Category="Remove - Themes" Name="Cursors - Standard (L)" Selected="false" />
+    <Element Category="Remove - Themes" Name="Cursors - Standard (XL)" Selected="false" />
+    <Element Category="Remove - Themes" Name="Icons - More Icons" Selected="false" />
     <Element Category="Remove - Themes" Name="Lockscreen - Pictures" Selected="true" />
     <Element Category="Remove - Themes" Name="Screensavers - Blank" Selected="true" />
     <Element Category="Remove - Themes" Name="Screensavers - Bubbles" Selected="true" />
@@ -1069,49 +1069,49 @@
     <Element Category="Privacy" Name="Voice activation - Allow apps to use voice activation" Selected="true" />
     <Element Category="Privacy" Name="Voice activation - Allow apps to use voice activation when this device is locked" Selected="true" />
     <Element Category="Settings" Name="Home" Selected="false" />
-    <Element Category="Settings" Name="Accounts - Access work or school" Selected="true" />
-    <Element Category="Settings" Name="Accounts - Email and app accounts" Selected="true" />
-    <Element Category="Settings" Name="Accounts - Family and other people" Selected="true" />
+    <Element Category="Settings" Name="Accounts - Access work or school" Selected="false" />
+    <Element Category="Settings" Name="Accounts - Email and app accounts" Selected="false" />
+    <Element Category="Settings" Name="Accounts - Family and other people" Selected="false" />
     <Element Category="Settings" Name="Accounts - Sign-in options" Selected="false" />
-    <Element Category="Settings" Name="Accounts - Sync your settings" Selected="true" />
+    <Element Category="Settings" Name="Accounts - Sync your settings" Selected="false" />
     <Element Category="Settings" Name="Accounts - Your info" Selected="false" />
     <Element Category="Settings" Name="Apps - Apps and features" Selected="false" />
-    <Element Category="Settings" Name="Apps - Apps for websites" Selected="true" />
-    <Element Category="Settings" Name="Apps - Offline maps" Selected="true" />
-    <Element Category="Settings" Name="Apps - Startup" Selected="true" />
-    <Element Category="Settings" Name="Apps - Video playback" Selected="true" />
-    <Element Category="Settings" Name="Devices - AutoPlay" Selected="true" />
+    <Element Category="Settings" Name="Apps - Apps for websites" Selected="false" />
+    <Element Category="Settings" Name="Apps - Offline maps" Selected="false" />
+    <Element Category="Settings" Name="Apps - Startup" Selected="false" />
+    <Element Category="Settings" Name="Apps - Video playback" Selected="false" />
+    <Element Category="Settings" Name="Devices - AutoPlay" Selected="false" />
     <Element Category="Settings" Name="Devices - Bluetooth and other devices" Selected="false" />
     <Element Category="Settings" Name="Devices - Mouse" Selected="false" />
-    <Element Category="Settings" Name="Devices - Pen and Windows Ink" Selected="true" />
+    <Element Category="Settings" Name="Devices - Pen and Windows Ink" Selected="false" />
     <Element Category="Settings" Name="Devices - Printers and scanners" Selected="false" />
     <Element Category="Settings" Name="Devices - Touchpad" Selected="false" />
     <Element Category="Settings" Name="Devices - Typing" Selected="false" />
     <Element Category="Settings" Name="Devices - Wheel" Selected="false" />
-    <Element Category="Settings" Name="Ease of Access - Audio" Selected="true" />
-    <Element Category="Settings" Name="Ease of Access - Closed captions" Selected="true" />
-    <Element Category="Settings" Name="Ease of Access - Color Filters" Selected="true" />
+    <Element Category="Settings" Name="Ease of Access - Audio" Selected="false" />
+    <Element Category="Settings" Name="Ease of Access - Closed captions" Selected="false" />
+    <Element Category="Settings" Name="Ease of Access - Color Filters" Selected="false" />
     <Element Category="Settings" Name="Ease of Access - Display" Selected="false" />
-    <Element Category="Settings" Name="Ease of Access - Eye Control" Selected="true" />
-    <Element Category="Settings" Name="Ease of Access - High Contrast" Selected="true" />
-    <Element Category="Settings" Name="Ease of Access - Keyboard" Selected="true" />
-    <Element Category="Settings" Name="Ease of Access - Magnifier" Selected="true" />
-    <Element Category="Settings" Name="Ease of Access - Mouse" Selected="true" />
-    <Element Category="Settings" Name="Ease of Access - Narrator" Selected="true" />
-    <Element Category="Settings" Name="Ease of Access - Other options" Selected="true" />
-    <Element Category="Settings" Name="Ease of Access - Speech" Selected="true" />
-    <Element Category="Settings" Name="Ease of Access - Text Cursor" Selected="true" />
-    <Element Category="Settings" Name="Extras" Selected="true" />
-    <Element Category="Settings" Name="Gaming - Broadcasting" Selected="true" />
-    <Element Category="Settings" Name="Gaming - Game bar" Selected="true" />
-    <Element Category="Settings" Name="Gaming - Game DVR" Selected="true" />
-    <Element Category="Settings" Name="Gaming - Game Mode" Selected="true" />
-    <Element Category="Settings" Name="Gaming - TruePlay" Selected="true" />
-    <Element Category="Settings" Name="Gaming - Xbox Networking" Selected="true" />
-    <Element Category="Settings" Name="Mixed reality - Audio and speech" Selected="true" />
+    <Element Category="Settings" Name="Ease of Access - Eye Control" Selected="false" />
+    <Element Category="Settings" Name="Ease of Access - High Contrast" Selected="false" />
+    <Element Category="Settings" Name="Ease of Access - Keyboard" Selected="false" />
+    <Element Category="Settings" Name="Ease of Access - Magnifier" Selected="false" />
+    <Element Category="Settings" Name="Ease of Access - Mouse" Selected="false" />
+    <Element Category="Settings" Name="Ease of Access - Narrator" Selected="false" />
+    <Element Category="Settings" Name="Ease of Access - Other options" Selected="false" />
+    <Element Category="Settings" Name="Ease of Access - Speech" Selected="false" />
+    <Element Category="Settings" Name="Ease of Access - Text Cursor" Selected="false" />
+    <Element Category="Settings" Name="Extras" Selected="false" />
+    <Element Category="Settings" Name="Gaming - Broadcasting" Selected="false" />
+    <Element Category="Settings" Name="Gaming - Game bar" Selected="false" />
+    <Element Category="Settings" Name="Gaming - Game DVR" Selected="false" />
+    <Element Category="Settings" Name="Gaming - Game Mode" Selected="false" />
+    <Element Category="Settings" Name="Gaming - TruePlay" Selected="false" />
+    <Element Category="Settings" Name="Gaming - Xbox Networking" Selected="false" />
+    <Element Category="Settings" Name="Mixed reality - Audio and speech" Selected="false" />
     <Element Category="Settings" Name="Network and Internet - Airplane mode" Selected="false" />
     <Element Category="Settings" Name="Network and Internet - Cellular and SIM" Selected="false" />
-    <Element Category="Settings" Name="Network and Internet - Data Usage" Selected="true" />
+    <Element Category="Settings" Name="Network and Internet - Data Usage" Selected="false" />
     <Element Category="Settings" Name="Network and Internet - Dial-up" Selected="false" />
     <Element Category="Settings" Name="Network and Internet - DirectAccess" Selected="false" />
     <Element Category="Settings" Name="Network and Internet - Ethernet" Selected="false" />
@@ -1128,82 +1128,82 @@
     <Element Category="Settings" Name="Personalization - Lock screen" Selected="false" />
     <Element Category="Settings" Name="Personalization - Taskbar" Selected="false" />
     <Element Category="Settings" Name="Personalization - Themes" Selected="false" />
-    <Element Category="Settings" Name="Phone" Selected="true" />
-    <Element Category="Settings" Name="Phone - Add a phone" Selected="true" />
-    <Element Category="Settings" Name="Privacy - Account Info" Selected="true" />
-    <Element Category="Settings" Name="Privacy - Activity History" Selected="true" />
-    <Element Category="Settings" Name="Privacy - App diagnostics" Selected="true" />
-    <Element Category="Settings" Name="Privacy - Automatic file downloads" Selected="true" />
-    <Element Category="Settings" Name="Privacy - Background apps" Selected="true" />
-    <Element Category="Settings" Name="Privacy - Calendar" Selected="true" />
-    <Element Category="Settings" Name="Privacy - Call history" Selected="true" />
+    <Element Category="Settings" Name="Phone" Selected="false" />
+    <Element Category="Settings" Name="Phone - Add a phone" Selected="false" />
+    <Element Category="Settings" Name="Privacy - Account Info" Selected="false" />
+    <Element Category="Settings" Name="Privacy - Activity History" Selected="false" />
+    <Element Category="Settings" Name="Privacy - App diagnostics" Selected="false" />
+    <Element Category="Settings" Name="Privacy - Automatic file downloads" Selected="false" />
+    <Element Category="Settings" Name="Privacy - Background apps" Selected="false" />
+    <Element Category="Settings" Name="Privacy - Calendar" Selected="false" />
+    <Element Category="Settings" Name="Privacy - Call history" Selected="false" />
     <Element Category="Settings" Name="Privacy - Camera" Selected="false" />
-    <Element Category="Settings" Name="Privacy - Contacts" Selected="true" />
-    <Element Category="Settings" Name="Privacy - Documents" Selected="true" />
-    <Element Category="Settings" Name="Privacy - Email" Selected="true" />
-    <Element Category="Settings" Name="Privacy - General" Selected="true" />
-    <Element Category="Settings" Name="Privacy - File System" Selected="true" />
-    <Element Category="Settings" Name="Privacy - Feedback and diagnostics" Selected="true" />
-    <Element Category="Settings" Name="Privacy - Inking and Typing Personalization" Selected="true" />
+    <Element Category="Settings" Name="Privacy - Contacts" Selected="false" />
+    <Element Category="Settings" Name="Privacy - Documents" Selected="false" />
+    <Element Category="Settings" Name="Privacy - Email" Selected="false" />
+    <Element Category="Settings" Name="Privacy - General" Selected="false" />
+    <Element Category="Settings" Name="Privacy - File System" Selected="false" />
+    <Element Category="Settings" Name="Privacy - Feedback and diagnostics" Selected="false" />
+    <Element Category="Settings" Name="Privacy - Inking and Typing Personalization" Selected="false" />
     <Element Category="Settings" Name="Privacy - Location" Selected="false" />
-    <Element Category="Settings" Name="Privacy - Messaging" Selected="true" />
+    <Element Category="Settings" Name="Privacy - Messaging" Selected="false" />
     <Element Category="Settings" Name="Privacy - Microphone" Selected="false" />
-    <Element Category="Settings" Name="Privacy - Notifications" Selected="true" />
+    <Element Category="Settings" Name="Privacy - Notifications" Selected="false" />
     <Element Category="Settings" Name="Privacy - Other devices" Selected="false" />
-    <Element Category="Settings" Name="Privacy - Phone calls" Selected="true" />
-    <Element Category="Settings" Name="Privacy - Pictures" Selected="true" />
-    <Element Category="Settings" Name="Privacy - Radios" Selected="true" />
-    <Element Category="Settings" Name="Privacy - Speech" Selected="true" />
-    <Element Category="Settings" Name="Privacy - Speech, inking and typing" Selected="true" />
-    <Element Category="Settings" Name="Privacy - Tasks" Selected="true" />
-    <Element Category="Settings" Name="Privacy - Videos" Selected="true" />
-    <Element Category="Settings" Name="Privacy - Voice activation" Selected="true" />
+    <Element Category="Settings" Name="Privacy - Phone calls" Selected="false" />
+    <Element Category="Settings" Name="Privacy - Pictures" Selected="false" />
+    <Element Category="Settings" Name="Privacy - Radios" Selected="false" />
+    <Element Category="Settings" Name="Privacy - Speech" Selected="false" />
+    <Element Category="Settings" Name="Privacy - Speech, inking and typing" Selected="false" />
+    <Element Category="Settings" Name="Privacy - Tasks" Selected="false" />
+    <Element Category="Settings" Name="Privacy - Videos" Selected="false" />
+    <Element Category="Settings" Name="Privacy - Voice activation" Selected="false" />
     <Element Category="Settings" Name="Search - Permissions and history" Selected="false" />
     <Element Category="Settings" Name="Search - Searching Windows" Selected="false" />
     <Element Category="Settings" Name="Search - More details" Selected="false" />
-    <Element Category="Settings" Name="Surface Hub - Accounts" Selected="true" />
-    <Element Category="Settings" Name="Surface Hub - Team Conferencing" Selected="true" />
-    <Element Category="Settings" Name="Surface Hub - Team device management" Selected="true" />
-    <Element Category="Settings" Name="Surface Hub - Session cleanup" Selected="true" />
-    <Element Category="Settings" Name="Surface Hub - Welcome screen" Selected="true" />
+    <Element Category="Settings" Name="Surface Hub - Accounts" Selected="false" />
+    <Element Category="Settings" Name="Surface Hub - Team Conferencing" Selected="false" />
+    <Element Category="Settings" Name="Surface Hub - Team device management" Selected="false" />
+    <Element Category="Settings" Name="Surface Hub - Session cleanup" Selected="false" />
+    <Element Category="Settings" Name="Surface Hub - Welcome screen" Selected="false" />
     <Element Category="Settings" Name="System - Battery" Selected="false" />
     <Element Category="Settings" Name="System - Battery - Battery usage by app" Selected="false" />
     <Element Category="Settings" Name="System - Battery - Battery Saver settings" Selected="false" />
-    <Element Category="Settings" Name="System - Clipboard" Selected="true" />
+    <Element Category="Settings" Name="System - Clipboard" Selected="false" />
     <Element Category="Settings" Name="System - Display" Selected="false" />
-    <Element Category="Settings" Name="System - Focus Assist" Selected="true" />
+    <Element Category="Settings" Name="System - Focus Assist" Selected="false" />
     <Element Category="Settings" Name="System - Multitasking" Selected="false" />
-    <Element Category="Settings" Name="System - Notifications and actions" Selected="true" />
+    <Element Category="Settings" Name="System - Notifications and actions" Selected="false" />
     <Element Category="Settings" Name="System - Power and sleep" Selected="false" />
-    <Element Category="Settings" Name="System - Projecting to this PC" Selected="true" />
-    <Element Category="Settings" Name="System - Remote Desktop" Selected="true" />
-    <Element Category="Settings" Name="System - Shared experiences" Selected="true" />
+    <Element Category="Settings" Name="System - Projecting to this PC" Selected="false" />
+    <Element Category="Settings" Name="System - Remote Desktop" Selected="false" />
+    <Element Category="Settings" Name="System - Shared experiences" Selected="false" />
     <Element Category="Settings" Name="System - Sound" Selected="false" />
-    <Element Category="Settings" Name="System - Storage" Selected="true" />
-    <Element Category="Settings" Name="System - Storage - Save locations" Selected="true" />
-    <Element Category="Settings" Name="System - Storage - Change how we free up space" Selected="true" />
-    <Element Category="Settings" Name="System - Tablet mode" Selected="true" />
+    <Element Category="Settings" Name="System - Storage" Selected="false" />
+    <Element Category="Settings" Name="System - Storage - Save locations" Selected="false" />
+    <Element Category="Settings" Name="System - Storage - Change how we free up space" Selected="false" />
+    <Element Category="Settings" Name="System - Tablet mode" Selected="false" />
     <Element Category="Settings" Name="Time and language - Region and language" Selected="false" />
-    <Element Category="Settings" Name="Time and language - Speech" Selected="true" />
-    <Element Category="Settings" Name="Update and Security - Backup" Selected="true" />
-    <Element Category="Settings" Name="Update and Security - Find My Device" Selected="true" />
-    <Element Category="Settings" Name="Update and Security - For developers" Selected="true" />
+    <Element Category="Settings" Name="Time and language - Speech" Selected="false" />
+    <Element Category="Settings" Name="Update and Security - Backup" Selected="false" />
+    <Element Category="Settings" Name="Update and Security - Find My Device" Selected="false" />
+    <Element Category="Settings" Name="Update and Security - For developers" Selected="false" />
     <Element Category="Settings" Name="Update and Security - Recovery" Selected="false" />
-    <Element Category="Settings" Name="Update and Security - Troubleshoot" Selected="true" />
+    <Element Category="Settings" Name="Update and Security - Troubleshoot" Selected="false" />
     <Element Category="Settings" Name="Update and Security - Windows Defender" Selected="true" />
-    <Element Category="Settings" Name="Update and Security - Windows Insider Program" Selected="true" />
-    <Element Category="Settings" Name="Update and Security - Windows Update" Selected="true" />
-    <Element Category="Settings" Name="Update and Security - Windows Update - Check for updates" Selected="true" />
-    <Element Category="Settings" Name="Update and Security - Windows Update - Update history" Selected="true" />
-    <Element Category="Settings" Name="Update and Security - Windows Update - Restart options" Selected="true" />
-    <Element Category="Settings" Name="Update and Security - Windows Update - Advanced options" Selected="true" />
-    <Element Category="Settings" Name="Update and Security - Windows Update - Advanced options - Delivery Optimization" Selected="true" />
-    <Element Category="Tweaks" Name="Artificial Intelligence - Google Chrome - Disable Automatic Download For AI Models" Selected="false" />
-    <Element Category="Tweaks" Name="Artificial Intelligence - Microsoft Edge - Disable Automatic Download For AI Models" Selected="false" />
-    <Element Category="Tweaks" Name="Artificial Intelligence - Microsoft Recall - Disable Feature Enablement" Selected="false" />
-    <Element Category="Tweaks" Name="Setup - Bypass Installation Restrictions" Selected="false" />
-    <Element Category="Tweaks" Name="Setup - Bypass Installation Restrictions (In-place Upgrade)" Selected="false" />
-    <Element Category="Tweaks" Name="Setup - Enable OOBE Local Account" Selected="false" />
+    <Element Category="Settings" Name="Update and Security - Windows Insider Program" Selected="false" />
+    <Element Category="Settings" Name="Update and Security - Windows Update" Selected="false" />
+    <Element Category="Settings" Name="Update and Security - Windows Update - Check for updates" Selected="false" />
+    <Element Category="Settings" Name="Update and Security - Windows Update - Update history" Selected="false" />
+    <Element Category="Settings" Name="Update and Security - Windows Update - Restart options" Selected="false" />
+    <Element Category="Settings" Name="Update and Security - Windows Update - Advanced options" Selected="false" />
+    <Element Category="Settings" Name="Update and Security - Windows Update - Advanced options - Delivery Optimization" Selected="false" />
+    <Element Category="Tweaks" Name="Artificial Intelligence - Google Chrome - Disable Automatic Download For AI Models" Selected="true" />
+    <Element Category="Tweaks" Name="Artificial Intelligence - Microsoft Edge - Disable Automatic Download For AI Models" Selected="true" />
+    <Element Category="Tweaks" Name="Artificial Intelligence - Microsoft Recall - Disable Feature Enablement" Selected="true" />
+    <Element Category="Tweaks" Name="Setup - Bypass Installation Restrictions" Selected="true" />
+    <Element Category="Tweaks" Name="Setup - Bypass Installation Restrictions (In-place Upgrade)" Selected="true" />
+    <Element Category="Tweaks" Name="Setup - Enable OOBE Local Account" Selected="true" />
     <Element Category="EXPERIMENTAL - Tweaks" Name="Setup - Enable New Installation Procedure" Selected="false" />
     <Element Category="Tweaks" Name="Classic GUI - Enable Classic Action Center UI" Selected="false" />
     <Element Category="Tweaks" Name="Classic GUI - Enable Classic Battery Fly-out UI" Selected="false" />
@@ -1233,14 +1233,14 @@
     <Element Category="Tweaks" Name="Desktop - Disable Drop Tray" Selected="false" />
     <Element Category="Tweaks" Name="Desktop - Disable Get Tips, Tricks and Suggestions" Selected="true" />
     <Element Category="Tweaks" Name="Desktop - Disable JPEG Wallpaper Import Quality Reduction" Selected="true" />
-    <Element Category="Tweaks" Name="Desktop - Disable Snap Assist" Selected="false" />
-    <Element Category="Tweaks" Name="Desktop - Disable Snap Bar" Selected="false" />
-    <Element Category="Tweaks" Name="Desktop - Disable Snap" Selected="false" />
-    <Element Category="Tweaks" Name="Desktop - Disable Spotlight" Selected="false" />
-    <Element Category="Tweaks" Name="Desktop - Enable Old Context Menu" Selected="false" />
+    <Element Category="Tweaks" Name="Desktop - Disable Snap Assist" Selected="true" />
+    <Element Category="Tweaks" Name="Desktop - Disable Snap Bar" Selected="true" />
+    <Element Category="Tweaks" Name="Desktop - Disable Snap" Selected="true" />
+    <Element Category="Tweaks" Name="Desktop - Disable Spotlight" Selected="true" />
+    <Element Category="Tweaks" Name="Desktop - Enable Old Context Menu" Selected="true" />
     <Element Category="Tweaks" Name="Desktop - Hide Icons" Selected="false" />
     <Element Category="Tweaks" Name="Desktop - Hide Popup Help Tips" Selected="true" />
-    <Element Category="Tweaks" Name="Desktop - Remove Recycle Bin Icon" Selected="true" />
+    <Element Category="Tweaks" Name="Desktop - Remove Recycle Bin Icon" Selected="false" />
     <Element Category="Tweaks" Name="Desktop - Save User Customized Settings" Selected="false" />
     <Element Category="Tweaks" Name="Explorer - Automatically Expand to Current Folder" Selected="false" />
     <Element Category="Tweaks" Name="Explorer - Command Bar - Remove Burn" Selected="false" />
@@ -1252,11 +1252,11 @@
     <Element Category="Tweaks" Name="Explorer - Disable Thumbnails" Selected="false" />
     <Element Category="Tweaks" Name="Explorer - Disable Thumbnails Cache" Selected="false" />
     <Element Category="Tweaks" Name="Explorer - Disable Thumbnails File Icons" Selected="false" />
-    <Element Category="Tweaks" Name="Explorer - Disable Recently Opened Programs List" Selected="true" />
-    <Element Category="Tweaks" Name="Explorer - Disable User Tracking" Selected="true" />
+    <Element Category="Tweaks" Name="Explorer - Disable Recently Opened Programs List" Selected="false" />
+    <Element Category="Tweaks" Name="Explorer - Disable User Tracking" Selected="false" />
     <Element Category="Tweaks" Name="Explorer - Enable Confirmation Dialog to Apply to all Current Items" Selected="true" />
     <Element Category="Tweaks" Name="Explorer - Enable File Transfer Dialog with more Details" Selected="true" />
-    <Element Category="Tweaks" Name="Explorer - Enable Old Compact Icon Spacing" Selected="false" />
+    <Element Category="Tweaks" Name="Explorer - Enable Old Compact Icon Spacing" Selected="true" />
     <Element Category="Tweaks" Name="Explorer - Hidden Files and Folders (Show)" Selected="true" />
     <Element Category="Tweaks" Name="Explorer - Hidden System Files (Hide)" Selected="true" />
     <Element Category="Tweaks" Name="Explorer - Increase Icon Cache to 4MB" Selected="true" />
@@ -1265,7 +1265,7 @@
     <Element Category="Tweaks" Name="Explorer - Preview Pane (Show)" Selected="false" />
     <Element Category="Tweaks" Name="Explorer - PowerShell instead of Command Prompt" Selected="false" />
     <Element Category="Tweaks" Name="Explorer - Recent Document History (Delete on Exit)" Selected="false" />
-    <Element Category="Tweaks" Name="Explorer - Recent Document History (Do Not Save)" Selected="true" />
+    <Element Category="Tweaks" Name="Explorer - Recent Document History (Do Not Save)" Selected="false" />
     <Element Category="Tweaks" Name="Explorer - Reduce Scrollbar Size" Selected="true" />
     <Element Category="Tweaks" Name="Explorer - Remove Navigation Pane" Selected="false" />
     <Element Category="Tweaks" Name="Explorer - Remove 3D Objects from Navigation Pane" Selected="true" />
@@ -1407,41 +1407,41 @@
     <Element Category="Tweaks" Name="System - CTRL+ALT+DEL Screen - Hide Task Manager" Selected="false" />
     <Element Category="Tweaks" Name="System - Block Negative DNS Entries" Selected="true" />
     <Element Category="Tweaks" Name="System - Disable Administrative Shares" Selected="true" />
-    <Element Category="Tweaks" Name="System - Disable Autocorrect Misspelled Words" Selected="false" />
+    <Element Category="Tweaks" Name="System - Disable Autocorrect Misspelled Words" Selected="true" />
     <Element Category="Tweaks" Name="System - Disable Automatic Defragmentation" Selected="true" />
     <Element Category="Tweaks" Name="System - Disable Automatic Reboot on BSOD" Selected="true" />
     <Element Category="Tweaks" Name="System - Disable Bandwidth Limit" Selected="false" />
     <Element Category="Tweaks" Name="System - Disable Dr Watson" Selected="true" />
     <Element Category="Tweaks" Name="System - Disable Drives Autorun" Selected="true" />
-    <Element Category="Tweaks" Name="System - Disable Fault Tolerant Heap" Selected="true" />
+    <Element Category="Tweaks" Name="System - Disable Fault Tolerant Heap" Selected="false" />
     <Element Category="Tweaks" Name="System - Disable File System Tunneling" Selected="false" />
-    <Element Category="Tweaks" Name="System - Disable Hibernation" Selected="true" />
+    <Element Category="Tweaks" Name="System - Disable Hibernation" Selected="false" />
     <Element Category="Tweaks" Name="System - Disable Hybrid Boot" Selected="false" />
     <Element Category="Tweaks" Name="System - Disable Last Known Good configuration" Selected="false" />
-    <Element Category="Tweaks" Name="System - Disable Metro Boot" Selected="true" />
+    <Element Category="Tweaks" Name="System - Disable Metro Boot" Selected="false" />
     <Element Category="Tweaks" Name="System - Disable NTFS Short File Names Creation" Selected="false" />
     <Element Category="Tweaks" Name="System - Disable Paging Executive" Selected="false" />
     <Element Category="Tweaks" Name="System - Disable Paging File" Selected="false" />
     <Element Category="Tweaks" Name="System - Disable Paging Swap File" Selected="false" />
-    <Element Category="Tweaks" Name="System - Disable Ready Boot" Selected="true" />
+    <Element Category="Tweaks" Name="System - Disable Ready Boot" Selected="false" />
     <Element Category="Tweaks" Name="System - Disable Superfetch, Prefetcher and Boot Trace" Selected="false" />
     <Element Category="Tweaks" Name="System - Disable System Failure" Selected="true" />
     <Element Category="Tweaks" Name="System - Disable User Account Control (UAC)" Selected="false" />
     <Element Category="Tweaks" Name="System - Disable Windows Minimize and Maximize Animations" Selected="false" />
     <Element Category="Tweaks" Name="System - Disable Windows Reserved Storage" Selected="true" />
-    <Element Category="Tweaks" Name="System - Disable Windows Resource Protection" Selected="true" />
+    <Element Category="Tweaks" Name="System - Disable Windows Resource Protection" Selected="false" />
     <Element Category="Tweaks" Name="System - Enable Keyboard NumPad on Startup" Selected="true" />
     <Element Category="Tweaks" Name="System - Enable Large System Cache" Selected="true" />
-    <Element Category="Tweaks" Name="System - Enable Login and Logout verbose mode" Selected="false" />
+    <Element Category="Tweaks" Name="System - Enable Login and Logout verbose mode" Selected="true" />
     <Element Category="Tweaks" Name="System - Improve Disk Check Timeout (5 sec)" Selected="true" />
     <Element Category="Tweaks" Name="System - Improve Shutdown Speed" Selected="true" />
     <Element Category="Tweaks" Name="System - Improve Windows Shell Response" Selected="true" />
     <Element Category="Tweaks" Name="System - Reduce Launch Delay For Desktop Startup Apps" Selected="true" />
     <Element Category="Tweaks" Name="Taskbar - Disable Multiview Icon" Selected="true" />
     <Element Category="Tweaks" Name="Taskbar - Disable Notification Center" Selected="false" />
-    <Element Category="Tweaks" Name="Taskbar - Disable Notifications" Selected="true" />
+    <Element Category="Tweaks" Name="Taskbar - Disable Notifications" Selected="false" />
     <Element Category="Tweaks" Name="Taskbar - Disable Promotion of Notification Icons" Selected="true" />
-    <Element Category="Tweaks" Name="Taskbar - Disable Search Icon" Selected="true" />
+    <Element Category="Tweaks" Name="Taskbar - Disable Search Icon" Selected="false" />
     <Element Category="Tweaks" Name="Taskbar - Disable Taskbar Grouping" Selected="false" />
     <Element Category="Tweaks" Name="Taskbar - Hide Shortcuts (All Modern UI Apps)" Selected="false" />
     <Element Category="Tweaks" Name="Taskbar - Hide Shortcuts (All Modern UI Apps and Explorer)" Selected="false" />
@@ -1563,7 +1563,7 @@
     <Element Category="Services" Name="Program Compatibility Assistant Service" Selected="true" Value="5" />
     <Element Category="Services" Name="Quality Windows Audio Video Experience Service" Selected="false" Value="" />
     <Element Category="Services" Name="Radio Management Service" Selected="false" Value="" />
-    <Element Category="Services" Name="Recommended Troubleshooting Service" Selected="true" Value="5" />
+    <Element Category="Services" Name="Recommended Troubleshooting Service" Selected="false" Value="" />
     <Element Category="Services" Name="Remote Access Auto Connection Manager Service" Selected="true" Value="3" />
     <Element Category="Services" Name="Remote Access Manager Services" Selected="false" Value="" />
     <Element Category="Services" Name="Remote Desktop Configuration Service" Selected="true" Value="5" />
@@ -1641,10 +1641,10 @@
     <Element Category="Services" Name="Xbox Live Auth Manager Service" Selected="false" Value="" />
     <Element Category="Services" Name="Xbox Live Game Save Service" Selected="false" Value="" />
     <Element Category="Services" Name="Xbox Live Networking Service" Selected="false" Value="" />
-    <Element Category="System" Name="Integrate - Drivers" Selected="true" Value="D:\WinReducerEX110\WORK\INTEGRATE\DRIVERS\x64\Install" Unsigned="" />
+    <Element Category="System" Name="Integrate - Drivers" Selected="false" Value="" Unsigned="" />
     <Element Category="System" Name="Integrate - Drivers (Boot.wim)" Selected="false" Value="" Unsigned="" />
-    <Element Category="System" Name="Integrate - Net Framework 3.5" Selected="true" Value="D:\WinReducerEX110\WORK\INTEGRATE\UPDATES\Framework35\x64" />
-    <Element Category="System" Name="Integrate - Updates" Selected="true" Value="D:\WinReducerEX110\WORK\INTEGRATE\UPDATES\x64\24H2" />
+    <Element Category="System" Name="Integrate - Net Framework 3.5" Selected="false" Value="" />
+    <Element Category="System" Name="Integrate - Updates" Selected="false" Value="" />
     <Element Category="System" Name="Folders - Contacts" Selected="false" Value="" />
     <Element Category="System" Name="Folders - Desktop" Selected="false" Value="" />
     <Element Category="System" Name="Folders - Documents" Selected="false" Value="" />
@@ -1696,7 +1696,7 @@
     <Element Category="Unattended" Name="Disable TCG Security Activation" Selected="false" />
     <Element Category="Unattended" Name="Prevent Device Encryption" Selected="false" />
     <Element Category="Unattended" Name="Join a Domain" Selected="false" DName="" DUsername="" DPassword="" Debug="false" />
-    <Element Category="Presets" Name="Automatic Removing Process" Selected="true" />
+    <Element Category="Presets" Name="Automatic Removing Process" Selected="false" />
     <Element Category="Presets" Name="Automatic Removing Process (Optimize ISO Size)" Selected="false" />
     <Element Category="Presets" Name="Automatic Removing Process (Expert Optimization)" Selected="false" />
     <Element Category="Presets" Name="Protect Important Files" Selected="true" />

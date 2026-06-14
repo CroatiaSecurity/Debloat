@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Preset isAutoSaved="false" xmlns="urn:schemas-nliteos-com:pn.v1">
-	<Date>06/14/2026 04:09:55</Date>
+	<Date>06/14/2026 04:50:48</Date>
 	<Version>1.1</Version>
 	<AppInfo>
 		<Version>2026.5.11090</Version>
@@ -9,14 +9,31 @@
 		<Host>Windows 11 Professional 26H1 x64 - 10.0.28000.1 (en-US)</Host>
 	</AppInfo>
 	<ImageInfo>
-		<Version mode="offline">Windows 11 Professional 26H1 x64 - 10.0.28000.1 (en-US)</Version>
-		<GUID>{C9CF6334-7524-EE77-87EC-FC756C934015}</GUID>
+		<Version mode="offline">Windows 11 IoTEnterpriseS 24H2 x64 - 10.0.26100.1 (en-US)</Version>
+		<GUID>{A2A1BDAE-F0E1-47A3-AE73-41D788B805BC}</GUID>
 	</ImageInfo>
 	<RemoveComponents AppRemovalMode="DISM">
+		<c>accessibility 'Accessibility tools (Ease of Access)'</c>
+		<c>accessibility_braille 'Braille (brltty)'</c>
+		<c>accessibility_cursors 'Mouse Pointers (Accessibility tools)'</c>
+		<c>accessibility_magnifier 'Screen Magnifier'</c>
+		<c>accessibility_narrator 'Narrator'</c>
+		<c>appv 'Application Virtualization (App-V)'</c>
+		<c>asimov 'Telemetry Client'</c>
 		<c>assembly.net '.NET assembly cache'</c>
+		<c>autoplay</c>
 		<c>axinstall 'ActiveX Installer Service'</c>
+		<c>clouddownload 'Windows Recovery Environment - Cloud download'</c>
+		<c>driver_helloface.inf</c>
+		<c>driver_spaceport.inf</c>
 		<c>driver_wvmic_guestinterface.inf</c>
-		<c>dvdplay 'DVD Play'</c>
+		<c>easeofaccessthemes 'Ease Of Access Themes'</c>
+		<c>edgehtml32 'HTML Viewer - 32 bit'</c>
+		<c>edgeupdate 'Microsoft Edge Update'</c>
+		<c>edgewebview 'Microsoft Edge WebView'</c>
+		<c>edgewebviewlegacy 'WebView2 Runtime (Legacy)'</c>
+		<c>enterprisedataprotection 'Enterprise Data Protection (EDP/WIP)'</c>
+		<c>facerecognition 'Face Recognition'</c>
 		<c>font_arialblack 'Arial Black'</c>
 		<c>font_bahnschrift 'Bahnschrift'</c>
 		<c>font_calibri 'Calibri'</c>
@@ -63,7 +80,7 @@
 		<c>font_segoescript 'SegoeScript'</c>
 		<c>font_simsun 'SimSun &amp; NSimSun'</c>
 		<c>font_simsunb 'SimSun-ExtB'</c>
-		<c>font_simsunextg 'SimSun-ExtG'</c>
+		<c>font_simsunextg 'Simsun-ExtG'</c>
 		<c>font_sitka 'Sitka'</c>
 		<c>font_small 'Small'</c>
 		<c>font_sylfaen 'Sylfaen'</c>
@@ -79,10 +96,8 @@
 		<c>font_yugothicbold 'Yu Gothic Bold &amp; Yu Gothic UI Semibold &amp; Yu Gothic UI Bold'</c>
 		<c>font_yugothiclight 'Yu Gothic Light &amp; Yu Gothic UI Light'</c>
 		<c>font_yugothicmedium 'Yu Gothic Medium &amp; Yu Gothic UI Regular'</c>
-		<c>fontpreviewer32 'Font previewer - 32 bit'</c>
-		<c>hwsupport_internetprintingclient 'Internet Printing Client'</c>
+		<c>guardedhost 'Guarded Host'</c>
 		<c>hwsupport_telephony 'Telephony'</c>
-		<c>hwsupport_tv 'TV Tuner codecs and support'</c>
 		<c>internetexplorer 'Internet Explorer'</c>
 		<c>internetexplorer32 'Internet Explorer - 32 bit'</c>
 		<c>la57 '57-bit Linear Addressing'</c>
@@ -167,26 +182,43 @@
 		<c>langvietnamese 'Vietnamese'</c>
 		<c>langwelsh 'Welsh'</c>
 		<c>lcu 'Cumulative Update cache (LCU)'</c>
+		<c>livecaptions 'Live Captions'</c>
+		<c>manifestbackup 'Manifest Backup (WinSxS\Backup)'</c>
+		<c>manifests 'Windows Component Database'</c>
 		<c>mapcontrol 'Map Control'</c>
+		<c>microsoft.ecapp 'Eye Control'</c>
 		<c>microsoft.microsoftedge 'Microsoft Edge (Legacy)'</c>
+		<c>microsoft.microsoftedge.stable 'Microsoft Edge (Chromium)'</c>
+		<c>microsoft.sechealthui 'Microsoft Defender Antivirus'</c>
+		<c>microsoft.windows.narratorquickstart 'Narrator'</c>
 		<c>microsoft.windows.parentalcontrols 'Microsoft Family Safety'</c>
+		<c>microsoftwindows.client.coreai 'Windows Feature Experience Pack - CoreAI'</c>
 		<c>migwiz 'Easy Transfer'</c>
+		<c>mixedreality 'Windows Mixed Reality'</c>
+		<c>pdfreader 'Windows Reader (PDF)'</c>
 		<c>phonesvc 'Phone Service'</c>
 		<c>pos 'Point of Service (POS)'</c>
+		<c>printtopdf 'Print to PDF'</c>
 		<c>rasauto 'Remote Access Auto Connection Manager'</c>
 		<c>retaildemo 'Retail Demo Content'</c>
+		<c>securestartup 'BitLocker Drive Encryption'</c>
 		<c>smbdirect 'SMB Direct (RDMA)'</c>
 		<c>smbv1 'SMB v1'</c>
 		<c>smbwitnessclientapi 'SMB Witness Client API'</c>
+		<c>sorting 'Natural Language - Sorting'</c>
 		<c>soundsdefault 'Sounds (Default)'</c>
 		<c>soundthemes 'Sound Themes'</c>
 		<c>sstackwow64 'Servicing stack - 32 bit'</c>
+		<c>storagemanagement32 'Storage Management - 32 bit'</c>
+		<c>storagespaces 'Storage Spaces'</c>
+		<c>systemreset 'System Reset for Windows'</c>
 		<c>tempcache 'Cache and temp files'</c>
-		<c>waasassessment 'Windows Update Medic Service'</c>
-		<c>webthreatdefense 'Web Threat Defense Service'</c>
-		<c>windowsupdate 'Windows Update'</c>
-		<c>winsat 'Windows System Assessment Tool (WinSAT)'</c>
+		<c>tieringengine 'Storage Tiers Management'</c>
+		<c>windowstogo 'Windows To Go'</c>
+		<c>winre 'Windows Recovery Environment'</c>
+		<c>winrewim 'Windows Recovery Environment - winre.wim'</c>
 		<c>winsxs 'Windows Component Store (WinSxS)'</c>
+		<c>wuqisvc 'Microsoft Usage and Quality Insights'</c>
 	</RemoveComponents>
 	<Compatibility>
 		<ComponentFeatures>
@@ -211,15 +243,16 @@
 			<Feature enabled="yes">NightLight</Feature>
 			<Feature enabled="yes">NvidiaSetup</Feature>
 			<Feature enabled="yes">OneNote</Feature>
-			<Feature enabled="yes">OOBE</Feature>
-			<Feature enabled="yes">PITR</Feature>
+			<Feature enabled="no">OOBE</Feature>
+			<Feature enabled="no">PITR</Feature>
 			<Feature enabled="yes">Printing</Feature>
-			<Feature enabled="yes">Recommended-All</Feature>
+			<Feature enabled="no">Recommended-All</Feature>
 			<Feature enabled="yes">RDPServer</Feature>
 			<Feature enabled="yes">SamsungSwitch</Feature>
 			<Feature enabled="yes">Scanning</Feature>
 			<Feature enabled="no">ServicingStack</Feature>
 			<Feature enabled="yes">ShellSearchSupport</Feature>
+			<Feature enabled="no">SnippingTool</Feature>
 			<Feature enabled="yes">Spotify</Feature>
 			<Feature enabled="no">SFC</Feature>
 			<Feature enabled="yes">DefaultFonts</Feature>
@@ -230,11 +263,11 @@
 			<Feature enabled="yes">USB</Feature>
 			<Feature enabled="yes">VideoPlayback</Feature>
 			<Feature enabled="yes">VPN</Feature>
-			<Feature enabled="yes">VisualStudio</Feature>
-			<Feature enabled="yes">VSS</Feature>
+			<Feature enabled="no">VisualStudio</Feature>
+			<Feature enabled="no">VSS</Feature>
 			<Feature enabled="yes">Activation</Feature>
 			<Feature enabled="yes">WFC</Feature>
-			<Feature enabled="yes">WinSetup</Feature>
+			<Feature enabled="no">WinSetup</Feature>
 			<Feature enabled="yes">WindowsStore</Feature>
 			<Feature enabled="no">WindowsUpdate</Feature>
 			<Feature enabled="yes">WLAN</Feature>
@@ -342,7 +375,6 @@
 	</Tweaks>
 	<ApplyOptions>
 		<ImageTasks>
-			<Task>imageSaveRebuild</Task>
 			<Task>imageSaveTrim</Task>
 			<Task>imageFormatWim</Task>
 		</ImageTasks>

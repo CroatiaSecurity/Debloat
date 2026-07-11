@@ -3,7 +3,7 @@
 <Packages>
   <WinReducerEX>110</WinReducerEX>
   <Version>v3.9.13.0</Version>
-  <Date>7/10/2026 1:52:16 PM</Date>
+  <Date>11-07-2026 18:26:35</Date>
   <Components>
     <Element Category="Appearance" Name="Activate Desktop Context Menu" Selected="true" Value="" />
     <Element Category="Appearance" Name="Safe Mode" Selected="true" Value="Safe Mode" />
@@ -14,12 +14,12 @@
     <Element Category="Appearance" Name="Shutdown (Hybrid)" Selected="false" Value="" />
     <Element Category="Appearance" Name="Activate Theme Support" Selected="true" Value="" />
     <Element Category="Appearance" Name="WinReducer Theme Pack" Selected="false" Value="" />
-    <Element Category="Appearance" Name="Background - Setup Screen" Selected="true" Value="E:\Media\wall.bmp" />
+    <Element Category="Appearance" Name="Background - Setup Screen" Selected="true" Value="D:\Media\wall.bmp" />
     <Element Category="Appearance" Name="Background - Setup Screen Window" Selected="false" Value="" />
     <Element Category="Appearance" Name="Background - Lockscreen" Selected="false" Value="" />
     <Element Category="Appearance" Name="Background - Logo (System CPL)" Selected="false" Value="" />
     <Element Category="Appearance" Name="Background - Picture Password" Selected="false" Value="" />
-    <Element Category="Appearance" Name="Background - Desktop Wallpaper" Selected="true" Value="E:\media\wall.jpg" />
+    <Element Category="Appearance" Name="Background - Desktop Wallpaper" Selected="true" Value="D:\Media\wall.jpg" />
     <Element Category="Appearance" Name="Cursor - Arrow" Selected="false" Value="" />
     <Element Category="Appearance" Name="Cursor - Busy" Selected="false" Value="" />
     <Element Category="Appearance" Name="Cursor - Cross" Selected="false" Value="" />
@@ -72,7 +72,7 @@
     <Element Category="Features" Name="Trivial File Transfer Protocol (TFTP)" Selected="true" Value="3" />
     <Element Category="Features" Name="Windows Defender Application Guard" Selected="true" Value="3" />
     <Element Category="Features" Name="Windows Identity Foundation 3.5" Selected="true" Value="3" />
-    <Element Category="Features" Name="Windows Media Player" Selected="false" Value="3" />
+    <Element Category="Features" Name="Windows Media Player" Selected="false" Value="" />
     <Element Category="Features" Name="Windows PowerShell" Selected="false" Value="" />
     <Element Category="Features" Name="Windows Sandbox" Selected="true" Value="3" />
     <Element Category="Features" Name="Windows Search" Selected="false" Value="" />
@@ -912,8 +912,8 @@
     <Element Category="Remove - Multimedia" Name="Photo Viewer" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Photo Viewer (Print Wizard)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Shoulder Tap" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Speech" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Speech (Voice Activation)" Selected="true" />
+    <Element Category="Remove - Multimedia" Name="Speech" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Speech (Voice Activation)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Stream Buffer Engine (SBE)" Selected="true" />
     <Element Category="Remove - Multimedia" Name="Windows Imaging Component" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Windows Media Center" Selected="false" />

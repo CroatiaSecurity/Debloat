@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Preset isAutoSaved="false" xmlns="urn:schemas-nliteos-com:pn.v1">
-	<Date>07/10/2026 14:08:27</Date>
+	<Date>07/11/2026 18:35:16</Date>
 	<Version>1.1</Version>
 	<AppInfo>
 		<Version>2026.7.11258</Version>
 		<Licensed>Yes</Licensed>
 		<Protections>Yes</Protections>
-		<Host>Windows 11 Professional 25H2 x64 - 10.0.26200.7019 (en-US)</Host>
+		<Host>Windows 11 IoTEnterpriseS 24H2 x64 - 10.0.26100.1 (en-US)</Host>
 	</AppInfo>
 	<ImageInfo>
 		<Version mode="offline">Windows 11 Professional 26H1 x64 - 10.0.28000.1 (en-US)</Version>
-		<GUID>{FEE9D318-C445-4362-996C-9D1EC9FD7176}</GUID>
+		<GUID>{2BEDDCC6-AEB2-4C4D-BF73-4C449B1648C5}</GUID>
 	</ImageInfo>
 	<RemoveComponents AppRemovalMode="DISM">
 		<c>aarsvc 'Agent Activation Runtime'</c>
@@ -406,19 +406,19 @@
 		<Options>
 			<CleanHotfixedLeftovers>3</CleanHotfixedLeftovers>
 		</Options>
-		<File>E:\NTLite\Cache\Updates\11.26H1.x64\microsoft-windows-netfx3-ondemand-package~31bf3856ad364e35~amd64~~.cab</File>
-		<File>E:\NTLite\Cache\Updates\11.26H1.x64\Microsoft.UI.Xaml.2.8_8.2501.31001.0_x64.appx</File>
-		<File>E:\NTLite\Cache\Updates\11.26H1.x64\Microsoft.VCLibs.140.00.UWPDesktop_14.0.33728.0_x64.appx</File>
-		<File>E:\NTLite\Cache\Updates\11.26H1.x64\Microsoft.VCLibs.140.00_14.0.33519.0_x64.appx</File>
-		<File>E:\NTLite\Cache\Updates\11.26H1.x64\Microsoft.WindowsAppRuntime.1.8_win10-x64.msix</File>
-		<File>E:\NTLite\Cache\Updates\11.26H1.x64\Microsoft.WindowsAppRuntime.2_win10-x64.msix</File>
-		<File>E:\NTLite\Cache\Updates\11.26H1.x64\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe_v1.29.280.msixbundle</File>
+		<File>D:\NTLite\Cache\Updates\11.26H1.x64\microsoft-windows-netfx3-ondemand-package~31bf3856ad364e35~amd64~~.cab</File>
+		<File>D:\NTLite\Cache\Updates\11.26H1.x64\Microsoft.UI.Xaml.2.8_8.2501.31001.0_x64.appx</File>
+		<File>D:\NTLite\Cache\Updates\11.26H1.x64\Microsoft.VCLibs.140.00.UWPDesktop_14.0.33728.0_x64.appx</File>
+		<File>D:\NTLite\Cache\Updates\11.26H1.x64\Microsoft.VCLibs.140.00_14.0.33519.0_x64.appx</File>
+		<File>D:\NTLite\Cache\Updates\11.26H1.x64\Microsoft.WindowsAppRuntime.1.8_win10-x64.msix</File>
+		<File>D:\NTLite\Cache\Updates\11.26H1.x64\Microsoft.WindowsAppRuntime.2_win10-x64.msix</File>
+		<File>D:\NTLite\Cache\Updates\11.26H1.x64\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe_v1.29.280.msixbundle</File>
 	</Packages>
 	<Drivers>
-		<File>E:\Drivers\Network adapters\mtkwl6ex.inf_amd64_01d61b4d701707d3\mtkwl6ex.inf</File>
-		<File>E:\Drivers\Network adapters\rt25cx21x64.inf_amd64_bf245578fa9e048d\rt25cx21x64.inf</File>
-		<File>E:\Drivers\Network adapters\rt640x64.inf_amd64_4449f152c11e9535\rt640x64.inf</File>
-		<File>E:\Drivers\Network adapters\netrtwlane711.inf_amd64_48dfc49488cb75a7\netrtwlane711.inf</File>
+		<File>D:\Drivers\Network adapters\mtkwl6ex.inf_amd64_01d61b4d701707d3\mtkwl6ex.inf</File>
+		<File>D:\Drivers\Network adapters\rt25cx21x64.inf_amd64_bf245578fa9e048d\rt25cx21x64.inf</File>
+		<File>D:\Drivers\Network adapters\rt640x64.inf_amd64_4449f152c11e9535\rt640x64.inf</File>
+		<File>D:\Drivers\Network adapters\netrtwlane711.inf_amd64_48dfc49488cb75a7\netrtwlane711.inf</File>
 	</Drivers>
 	<Unattended mode="0">
 		<settings pass="windowsPE">
